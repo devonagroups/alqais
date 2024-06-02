@@ -14,14 +14,14 @@
     <link rel="shortcut icon" href="//temerityjewelry.com/cdn/shop/t/7/assets/favicon.png?v=145128270709770678001467064532" type="image/png" />
   
 
-  <link rel="canonical" href="https://temerityjewelry.com/">
+  <link rel="canonical" href="https://temerityjewelry.com/pages/artifacts">
   <!-- Title and description ================================================== -->
   <title>
-  temerity jewelry
+  temerity jewelry artifacts lookbook
   </title>
 
   
-    <meta name="description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
+    <meta name="description" content="">
   
 
   <!-- Social Meta Tags ===================================== -->
@@ -29,32 +29,11 @@
 
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="temerity jewelry">
-  <meta property="og:url" content="https://temerityjewelry.com">
+  <meta property="og:title" content="temerity jewelry artifacts lookbook">
+  <meta property="og:url" content="https://temerityjewelry.com/pages/artifacts">
   
-    
-      
-      
-      
-        <meta property="og:image" content="http://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-        <meta property="og:image:secure_url" content="https://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-  
-  
-    <meta property="og:description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
+    <meta property="og:image" content="http://temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198">
+    <meta property="og:image:secure_url" content="https://temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198">
   
 
 <meta property="og:site_name" content="temerity jewelry">
@@ -63,23 +42,9 @@
 
 
 
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary">
 
 
-
-  <meta name="twitter:title" content="temerity jewelry">
-  
-    <meta name="twitter:description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
-  
-  
-  
-    
-     
-     
-       
-         <meta name="twitter:image" content="https://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-         
-  
 
 
 
@@ -119,13 +84,13 @@ Shopify.routes.root = "/";</script>
 <script>window.ShopifyPay = window.ShopifyPay || {};
 window.ShopifyPay.apiHost = "shop.app\/pay";</script>
 <script id="shop-js-features" type="application/json">{"compact":true}</script>
-<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"page"}</script>
 <script>
   window.Shopify = window.Shopify || {};
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
   window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_BfvhN2Qv.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_B6rHEUt1.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_Cftt1jI7.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_CmlWVbxq.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_gEZHFYw4.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_Ckt0oBsC.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"login-button":["modules/client.login-button_Bte5VVOo.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"discount-app":["modules/client.discount-app_p9pUn-8K.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_OylSdEMc.en.esm.js","modules/chunk.common_D5kDlea7.esm.js","modules/chunk.shop-pay_Bb_30Z23.esm.js"],"payment-terms":["modules/client.payment-terms_HnA3nfXJ.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"]};
 </script>
-<script id="__st">var __st={"a":2122932,"offset":-14400,"reqid":"590fc4a5-a69e-4850-8dd4-6a10e2cf7ce2-1717308279","pageurl":"temerityjewelry.com\/","u":"4c474575dfee","p":"home"};</script>
+<script id="__st">var __st={"a":2122932,"offset":-14400,"reqid":"16bc8af5-e8c0-427c-89f7-c764969ff31c-1717308441","pageurl":"temerityjewelry.com\/pages\/artifacts","s":"pages-9703102","u":"78390c310acb","p":"page","rtyp":"page","rid":9703102};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const e='contact',t='account',n='new_comment',o=e=>e.map((([e,t])=>`form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(',');function c(e,t){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(t))))e.elements[o]&&(e.elements[o].value=c);n.removeItem(t)}catch{}}const s='form_type',r='cptcha';((a,i,m,f,u,d)=>{if(0)return;let l=!1;a[m]=a[m]||{},a[m][f]=a[m][f]||{},a[m][f].q=[],function(a,i,m,f,u,d){const[l,_,p]=function(c,s,r){const a=s?[[e,e],['blogs',n],['comments',n],[e,'customer']]:[],i=c?[[t,'customer_login'],[t,'guest_login'],[t,'recover_customer_password'],[t,'create_customer']]:[],m=[...a,...i],f=o(m),u=o(a.slice(0,3)),d=r&&o(m.filter((([e,t])=>r.includes(t)))),l=e=>()=>e?[...document.querySelectorAll(e)].map((e=>e.form)):[];return[l(f),l(u),l(d)]}(!0,!0,d),E=e=>{const t=e.target,n=t instanceof HTMLFormElement?t:t&&t.form;return n&&l().find((e=>n===e))};a.addEventListener('submit',(e=>{E(e)&&e.preventDefault()}));const T=(e,t)=>{m(e,t.some((t=>t===e))),e.dataset[r]=!0};for(const e of['focusin','change'])a.addEventListener(e,(e=>{const t=E(e);t&&!t.dataset[r]&&T(t,_())}));const g=i.get('form_key'),v=i.get(s),h=g&&v,y=d&&d.length;(y||h)&&a.addEventListener('DOMContentLoaded',(()=>{const e=_();if(h)for(const t of e)t.elements[s].value===v&&c(t,g);if(y)for(const t of p())T(t,e)}))}(i,new URLSearchParams(a.location.search),((e,t)=>{const n=a[m][f],o=n.bindForm,c='6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey',s={infoText:'',privacyText:'',termsText:''};if(o)return o(e,c,t,s);n.q.push([e,c,t,s]),l||(i.body.append(Object.assign(i.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.1.1.iife.js'})),l=!0)}),0,0,['guest_login'])})(window,document,'Shopify','ce_forms')}();</script>
 <script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
@@ -154,12 +119,12 @@ window.ShopifyPay.apiHost = "shop.app\/pay";</script>
   
 
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 2122932,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 2122932,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 2122932,storefrontBaseUrl: "https://temerityjewelry.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"090","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"090","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[],"shop":{"name":"temerity jewelry","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"temerityjewelry.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/temerityjewelry.com"}},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://temerityjewelry.com/cdn","c20d7c0cc409fec97683d4ec0869ade0d56752f1","a5e579e2w294b04aepacdcb86cme97ddbc7",);</script>  <script>var pageTracker = _gat._getTracker('UA-38704006-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'USD';
-var meta = {"page":{"pageType":"home"}};
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":9703102}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -308,7 +273,7 @@ for (var attr in meta) {
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":9703102});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
@@ -473,7 +438,7 @@ for (var attr in meta) {
 <script src="//stats.g.doubleclick.net/dc.js"></script>
 </head>
 
-<body id="temerity-jewelry" class="template-index" >
+<body id="temerity-jewelry-artifacts-lookbook" class="template-page" >
   <div id="SearchDrawer" class="search-bar drawer drawer--top">
     <div class="search-bar__table">
       <form action="/search" method="get" class="search-bar__table-cell search-bar__form" role="search">
@@ -696,7 +661,7 @@ for (var attr in meta) {
 
               
               
-                <h1 class="site-header__logo" itemscope itemtype="http://schema.org/Organization">
+                <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization">
               
 
                 
@@ -706,7 +671,7 @@ for (var attr in meta) {
                 
 
               
-                </h1>
+                </div>
               
 
             </div>
@@ -726,94 +691,14 @@ for (var attr in meta) {
 
         <div class="action-area">
           
-
-          
-        </div>
-      </div>
-    </div>
-
-    <main class="main-content" role="main">
-      <!-- /templates/index.liquid -->
-
-<div class="hero-wrapper">
-  <div class="hero__site-header">
-    <div class="grid grid--no-gutter grid--table site-header__inner">
-      <div class="grid__item one-half">
-        <button type="button" class="site-header__link text-link site-header__toggle-nav js-drawer-open-left">
-          <span class="icon icon-hamburger" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Menu</span>
-        </button>
-      </div>
-      <div class="grid__item one-half text-right">
-        <a href="/search" class="site-header__link site-header__search js-drawer-open-top">
-          <span class="icon icon-search" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Search</span>
-        </a>
-        <a href="/cart" class="site-header__link site-header__cart cart-link js-drawer-open-right">
-          <span class="icon icon-cart" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Cart</span>
-        </a>
-      </div>
-    </div>
-  </div>
-  
-    <div class="hero__logo-wrapper">
-        <h1 class="hero__logo" itemscope itemtype="http://schema.org/Organization">
-          <span class="hero__logo-centered">
-            
-                
-                  <img class="hero__logo-image" src="//temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198" alt="temerity jewelry" itemprop="logo">
-                
-              
-          </span>
-        </h1>
-    </div>
-  
-  <div class="hero" id="Hero">
-    
-      
-      
-      
-        <div class="hero__slide">
-          <style>
-            @media screen and (max-width: 1024px) and (max-height: 683px) {
-              .hero__image--1 {
-                background-image: url('//temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330');
-              }
-            }
-            @media screen and (min-width: 1025px), screen and (min-height: 684px) {
-              .hero__image--1 {
-                background-image: url('//temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_2048x2048.jpg?v=76930479936661624791466040330');
-              }
-            }
-          </style>
-          <div class="hero__image hero__image--1" data-image="1"></div>
-        </div>
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-  </div>
-  <div class="hero__header">
-    <div class="action-area">
-      <!-- snippets/action-bar.liquid -->
+            <!-- snippets/action-bar.liquid -->
 
 
 
 
 
 
-<div class="action-bar-wrapper  action-bar--hero">
+<div class="action-bar-wrapper ">
   <nav class="action-bar action-bar--has-menu" role="presentation">
     <ul class="action-bar__menu--main action-bar__menu list--inline  action-bar--show" id="SiteNav" role="navigation">
       
@@ -937,741 +822,92 @@ for (var attr in meta) {
   </nav>
 </div>
 
+          
+
+          
+        </div>
+      </div>
     </div>
+
+    <main class="main-content" role="main">
+      <!-- /templates/page.liquid -->
+
+<div class="page-width page-container">
+  <header>
+    <h1>artifacts</h1>
+  </header>
+  <div class="rte rte--indented-images">
+    <p style="text-align: center;">
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: right;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/front_info_medium.jpg?539" alt="" style="" /><br />
+        </td>
+        <td style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0812_grande.jpg?541" alt="" style="" /><br />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0397_grande.jpg?543" alt="" style="" /></td>
+        <td style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0644_grande.jpg?545" alt="" style="" /><br />
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0446_grande.jpg?547" alt="" style="" /></td>
+        <td style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0680_grande.jpg?549" alt="" style="" /><br />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0476_grande.jpg?551" alt="" style="" /></td>
+      </tr>
+    </tbody>
+  </table>
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: right;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0828_grande.jpg?553" alt="" style="" /></td>
+        <td style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0692_grande.jpg?555" alt="" style="" /><br />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0734_grande.jpg?557" alt="" style="" /></td>
+      </tr>
+    </tbody>
+  </table>
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: right;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0849_grande.jpg?559" alt="" style="" /></td>
+        <td style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0868_grande.jpg?561" alt="" style="" /><br />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table cellpadding="3" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0908_grande.jpg?563" alt="" style="" /></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/R_G9E0592_grande.jpg?567" alt="" style="" /></td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><img src="//cdn.shopify.com/s/files/1/0212/2932/files/Screen_shot_2013-03-09_at_1.06.41_PM_large.png?567" alt="" style="" /></td>
+      </tr>
+    </tbody>
+  </table>
+<br />
+</p>
+
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  <!-- /snippets/home-content.liquid -->
-
-
-
-
-
-
-
-
-  
-  <!-- snippets/featured-products.liquid -->
-
-  <hr class="hr--clear">
-
-
-<div class="featured-products">
-  
-  
-
-  
-  <h2 class="visually-hidden">new-arrivals</h2>
-
-  <div class="grid grid--no-gutters grid--uniform collection-grid">
-    
-    
-
-
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/lykos-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/lykos_earrings_lapis4_grande.jpg?v=1571438504" alt="Lykos Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Lykos Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $95
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/pleko-collar">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1654_grande.JPG?v=1571438504" alt="Pleko Collar">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Pleko Collar</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $165
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/circe-necklace">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/lapis_necklace_grande.jpg?v=1571438504" alt="Circe Necklace">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Circe Necklace</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $125
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/vincula-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1657_grande.JPG?v=1571438504" alt="Vincula Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Vincula Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $98
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/lyrata-hairpin">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Torquent_Hairpin_grande.jpg?v=1571438504" alt="Lyrata Hairpin">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Lyrata Hairpin</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/treccia-hairpin">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504" alt="Treccia Hairpin">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Treccia Hairpin</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/spirea-hair-stick">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/barb_hair_stick_grande.jpg?v=1571438504" alt="Spirea Hair Stick">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Spirea Hair Stick</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/braid-inlay-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1288_grande.JPG?v=1571438504" alt="Braid Inlay Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Braid Inlay Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $96
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/bette-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Braid_Earrings_2_grande.JPG?v=1571438504" alt="Bette Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Bette Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $140
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/slice-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_bangle_grande.jpg?v=1571438504" alt="Slice Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Slice Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $82
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/staircase-hoops-medium">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braided_hoop_1_997383de-e662-400e-ad1f-b1947172e8a6_grande.JPG?v=1571438504" alt="Staircase Hoops - Medium">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Staircase Hoops - Medium</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $82
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/slice-bangle-set">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_and_jet_bangles_2_grande.jpg?v=1571438504" alt="Slice Bangle Set">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Slice Bangle Set</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $150
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/staircase-hoops">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braided_hoop_1_grande.JPG?v=1571438504" alt="Staircase Hoops - Large">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Staircase Hoops - Large</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $92
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/rhiannon-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/rhiannon_ring_2_grande.JPG?v=1571438504" alt="Rhiannon Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Rhiannon Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $115
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/iona-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/iona_bangle_1_f9913f3c-bb96-40f5-b10c-5a6ef7ecf021_grande.JPG?v=1571438504" alt="Iona Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Iona Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              
-                <span class="visually-hidden">Regular price</span>
-              
-              $94
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/artemis-collar">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braid_collar_1_aa7952cb-f24a-4a10-9566-a07350d06abf_grande.JPG?v=1571438504" alt="Artemis Collar">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Artemis Collar</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $195
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/thea-necklace">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braid_necklace_grande.jpg?v=1571438504" alt="Thea Necklace">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Thea Necklace</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $94
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/rika-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Rika_Ring_1_grande.jpg?v=1571438504" alt="Rika Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Rika Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $88
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/edge-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/edge_ring_1_grande.JPG?v=1571438504" alt="Edge Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Edge Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $88
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/plait-cuff">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Plait_Cuff_1_grande.JPG?v=1571438504" alt="Plait Cuff">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Plait Cuff</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              
-                <span class="visually-hidden">Regular price</span>
-              
-              $90
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/braid-cuff">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/boxbraid2_grande.JPG?v=1571438504" alt="Box Braid Cuff">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Box Braid Cuff</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              
-                <span class="visually-hidden">Regular price</span>
-              
-              $95
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/fractus-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1647_grande_75e17698-62b3-4479-b9a2-c9c12aa80a2a_grande.jpeg?v=1571438504" alt="Fractus Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Fractus Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $80
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-  </div>
-</div>
-
-
-
-
-  
-  <!-- snippets/newsletter-form.liquid -->
-
-  <hr class="hr--clear">
-
-
-<div class="newsletter text-center">
-  <div class="wrapper">
-    
-    <h2>Be the first to know about new products and sales</h2>
-    
-      <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
-        
-        
-          <div class="input-group">
-            <input type="hidden" name="contact[tags]" value="newsletter">
-            <label for="Email" class="newsletter__label label--hidden">Email address</label>
-            <input type="email" value="" placeholder="Email address" name="contact[email]" id="Email" class="input-group__field newsletter__input" autocorrect="off" autocapitalize="off">
-            <span class="input-group__btn">
-              <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
-                <span class="newsletter__submit-text--large">Subscribe</span>
-              </button>
-            </span>
-          </div>
-        
-      </form>
-    
-  </div>
-</div>
-
-
-
-  <hr class="hr--clear">
-
-
-
 
     </main>
 

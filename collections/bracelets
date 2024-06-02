@@ -1,0 +1,1855 @@
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <meta name="theme-color" content="#ffffff">
+
+  
+    <link rel="shortcut icon" href="//temerityjewelry.com/cdn/shop/t/7/assets/favicon.png?v=145128270709770678001467064532" type="image/png" />
+  
+
+  <link rel="canonical" href="https://temerityjewelry.com/collections/bracelets">
+  <!-- Title and description ================================================== -->
+  <title>
+  Bracelets &ndash; temerity jewelry
+  </title>
+
+  
+
+  <!-- Social Meta Tags ===================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Bracelets">
+  <meta property="og:url" content="https://temerityjewelry.com/collections/bracelets">
+  
+    <meta property="og:image" content="http://temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198">
+    <meta property="og:image:secure_url" content="https://temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198">
+  
+
+<meta property="og:site_name" content="temerity jewelry">
+
+
+
+
+
+  <meta name="twitter:card" content="summary">
+
+
+
+
+
+  <!-- CSS ================================================== -->
+  <link href="//temerityjewelry.com/cdn/shop/t/7/assets/theme.scss.css?v=103313691172837281181674755279" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- Google Fonts | from theme settings ================================================== -->
+  
+  
+    
+      
+      
+      <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400" rel="stylesheet" type="text/css" media="all" />
+    
+  
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/2122932/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="f9f158f61f953c806e5a805e5e874247">
+<meta id="in-context-paypal-metadata" data-shop-id="2122932" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/collections/bracelets.atom" />
+<link rel="alternate" type="application/json+oembed" href="https://temerityjewelry.com/collections/bracelets.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=2122932" crossorigin="anonymous"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"f9f158f61f953c806e5a805e5e874247","betas":["rich-media-storefront-analytics"],"domain":"temerityjewelry.com","predictiveSearch":true,"shopId":2122932,"smart_payment_buttons_url":"https:\/\/temerityjewelry.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/temerityjewelry.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "temerityjewelry.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Boundless","id":108139585,"theme_store_id":766,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "temerityjewelry.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-features" type="application/json">{"compact":true}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"collection"}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_BfvhN2Qv.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_B6rHEUt1.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_Cftt1jI7.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_CmlWVbxq.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_gEZHFYw4.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_Ckt0oBsC.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"login-button":["modules/client.login-button_Bte5VVOo.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"discount-app":["modules/client.discount-app_p9pUn-8K.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_OylSdEMc.en.esm.js","modules/chunk.common_D5kDlea7.esm.js","modules/chunk.shop-pay_Bb_30Z23.esm.js"],"payment-terms":["modules/client.payment-terms_HnA3nfXJ.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"]};
+</script>
+<script id="__st">var __st={"a":2122932,"offset":-14400,"reqid":"57796d29-ef97-49ac-bfdc-5d698b3be3e5-1717308284","pageurl":"temerityjewelry.com\/collections\/bracelets","u":"dc1f5f64a8cf","p":"collection","rtyp":"collection","rid":9232596};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const e='contact',t='account',n='new_comment',o=e=>e.map((([e,t])=>`form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(',');function c(e,t){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(t))))e.elements[o]&&(e.elements[o].value=c);n.removeItem(t)}catch{}}const s='form_type',r='cptcha';((a,i,m,f,u,d)=>{if(0)return;let l=!1;a[m]=a[m]||{},a[m][f]=a[m][f]||{},a[m][f].q=[],function(a,i,m,f,u,d){const[l,_,p]=function(c,s,r){const a=s?[[e,e],['blogs',n],['comments',n],[e,'customer']]:[],i=c?[[t,'customer_login'],[t,'guest_login'],[t,'recover_customer_password'],[t,'create_customer']]:[],m=[...a,...i],f=o(m),u=o(a.slice(0,3)),d=r&&o(m.filter((([e,t])=>r.includes(t)))),l=e=>()=>e?[...document.querySelectorAll(e)].map((e=>e.form)):[];return[l(f),l(u),l(d)]}(!0,!0,d),E=e=>{const t=e.target,n=t instanceof HTMLFormElement?t:t&&t.form;return n&&l().find((e=>n===e))};a.addEventListener('submit',(e=>{E(e)&&e.preventDefault()}));const T=(e,t)=>{m(e,t.some((t=>t===e))),e.dataset[r]=!0};for(const e of['focusin','change'])a.addEventListener(e,(e=>{const t=E(e);t&&!t.dataset[r]&&T(t,_())}));const g=i.get('form_key'),v=i.get(s),h=g&&v,y=d&&d.length;(y||h)&&a.addEventListener('DOMContentLoaded',(()=>{const e=_();if(h)for(const t of e)t.elements[s].value===v&&c(t,g);if(y)for(const t of p())T(t,e)}))}(i,new URLSearchParams(a.location.search),((e,t)=>{const n=a[m][f],o=n.bindForm,c='6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey',s={infoText:'',privacyText:'',termsText:''};if(o)return o(e,c,t,s);n.q.push([e,c,t,s]),l||(i.body.append(Object.assign(i.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.1.1.iife.js'})),l=!0)}),0,0,['guest_login'])})(window,document,'Shopify','ce_forms')}();</script>
+<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 120px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <!-- Fixes for Older Versions of IE ==================================================-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//temerityjewelry.com/cdn/shop/t/7/assets/modernizr.min.js?v=21391054748206432451466039851" type="text/javascript"></script>
+
+  
+  
+
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 2122932,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "collection"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 2122932,storefrontBaseUrl: "https://temerityjewelry.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"090","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"090","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[],"shop":{"name":"temerity jewelry","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"temerityjewelry.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/temerityjewelry.com"}},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("collection_viewed", {"collection":{"id":"9232596","title":"Bracelets","productVariants":[{"id":"753338553","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/inlay_bangle1_6fc15fa5-b711-4437-9acc-5060ea4abb29.JPG?v=1571438504"},"price":{"amount":82.0,"currencyCode":"USD"},"product":{"id":"314368617","title":"Slice Bangle","untranslatedTitle":"Slice Bangle","url":"\/products\/slice-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Brass \/ Jet","untranslatedTitle":"Brass \/ Jet"},{"id":"753333673","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/coral_and_jet_bangles_2.jpg?v=1571438504"},"price":{"amount":150.0,"currencyCode":"USD"},"product":{"id":"314323265","title":"Slice Bangle Set","untranslatedTitle":"Slice Bangle Set","url":"\/products\/slice-bangle-set","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Brass \/ Jet \/ Jet","untranslatedTitle":"Brass \/ Jet \/ Jet"},{"id":"733028333","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/iona_bangle_1_f9913f3c-bb96-40f5-b10c-5a6ef7ecf021.JPG?v=1571438504"},"price":{"amount":94.0,"currencyCode":"USD"},"product":{"id":"307387769","title":"Iona Bangle","untranslatedTitle":"Iona Bangle","url":"\/products\/iona-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"771452833","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Plait_Cuff_1.JPG?v=1571438504"},"price":{"amount":90.0,"currencyCode":"USD"},"product":{"id":"321472993","title":"Plait Cuff","untranslatedTitle":"Plait Cuff","url":"\/products\/plait-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"735186377","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/boxbraid2.JPG?v=1571438504"},"price":{"amount":95.0,"currencyCode":"USD"},"product":{"id":"308181769","title":"Box Braid Cuff","untranslatedTitle":"Box Braid Cuff","url":"\/products\/braid-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588631325","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Bead_Bangle_1.JPG?v=1571438503"},"price":{"amount":106.0,"currencyCode":"USD"},"product":{"id":"256802541","title":"Lydian Bangle","untranslatedTitle":"Lydian Bangle","url":"\/products\/lydian-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588692637","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Egg_Bangle_3.JPG?v=1571438503"},"price":{"amount":98.0,"currencyCode":"USD"},"product":{"id":"256823261","title":"Auric Bangle","untranslatedTitle":"Auric Bangle","url":"\/products\/auric-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Single \/ Brass","untranslatedTitle":"Single \/ Brass"},{"id":"588625781","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Vortex_Bangle.JPG?v=1571438503"},"price":{"amount":130.0,"currencyCode":"USD"},"product":{"id":"256799809","title":"Echo Bangle","untranslatedTitle":"Echo Bangle","url":"\/products\/echo-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588626533","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Vortex_Cuff.JPG?v=1571438503"},"price":{"amount":115.0,"currencyCode":"USD"},"product":{"id":"256800149","title":"Vortex Cuff","untranslatedTitle":"Vortex Cuff","url":"\/products\/vortex-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588633621","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Petal_Cuff_1.JPG?v=1571438503"},"price":{"amount":134.0,"currencyCode":"USD"},"product":{"id":"256803749","title":"Halcyon Cuff","untranslatedTitle":"Halcyon Cuff","url":"\/products\/halcyon-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588632681","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Rostrum_Cuff_1_whiter_background.jpg?v=1571438503"},"price":{"amount":134.0,"currencyCode":"USD"},"product":{"id":"256803197","title":"Rostrum Cuff","untranslatedTitle":"Rostrum Cuff","url":"\/products\/rostrum-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"588629341","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Vortex_Handpiece_1.JPG?v=1571438503"},"price":{"amount":145.0,"currencyCode":"USD"},"product":{"id":"256801577","title":"Maylin Handpiece","untranslatedTitle":"Maylin Handpiece","url":"\/products\/maylin-handpiece","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"378143919","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/sq_Shen_Bangle_1.jpg?v=1571438502"},"price":{"amount":103.0,"currencyCode":"USD"},"product":{"id":"164624513","title":"Shen Bangle","untranslatedTitle":"Shen Bangle","url":"\/products\/shen-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"422829205","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/sqLuxor_Cuff_2.jpg?v=1571438503"},"price":{"amount":92.0,"currencyCode":"USD"},"product":{"id":"184595225","title":"Luxor Cuff","untranslatedTitle":"Luxor Cuff","url":"\/products\/luxor-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"372010641","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/sq_Phaedra_Bracelet_2.jpg?v=1571438502"},"price":{"amount":120.0,"currencyCode":"USD"},"product":{"id":"162293071","title":"Phaedra Bracelet","untranslatedTitle":"Phaedra Bracelet","url":"\/products\/phaedra-bracelet","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"brass","untranslatedTitle":"brass"},{"id":"298091407","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/square_Somnium_Bangle_2.jpg?v=1571438502"},"price":{"amount":124.0,"currencyCode":"USD"},"product":{"id":"131523403","title":"Somnium Bangle","untranslatedTitle":"Somnium Bangle","url":"\/products\/somnium-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"422719177","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/Neith_Cuff_CarnHem_2.jpg?v=1571438503"},"price":{"amount":175.0,"currencyCode":"USD"},"product":{"id":"184538605","title":"Neith Cuff","untranslatedTitle":"Neith Cuff","url":"\/products\/neith-cuff-carnelian-hematite","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"hematite\/carnelian","untranslatedTitle":"hematite\/carnelian"},{"id":"378534547","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/sq_Sybel_Bangle_a14d60c7-ee3c-4174-827e-cdf213e149bf.jpg?v=1571438503"},"price":{"amount":103.0,"currencyCode":"USD"},"product":{"id":"164756411","title":"Sybel Bangle","untranslatedTitle":"Sybel Bangle","url":"\/products\/sybel-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"280013614","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_3737.jpg?v=1571438501"},"price":{"amount":117.0,"currencyCode":"USD"},"product":{"id":"123240384","title":"Sundial Bracelet","untranslatedTitle":"Sundial Bracelet","url":"\/products\/sundial-bracelet","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"280761854","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/dbl_vol.jpg?v=1571438501"},"price":{"amount":88.0,"currencyCode":"USD"},"product":{"id":"123483858","title":"Double Voluspa Cuff","untranslatedTitle":"Double Voluspa Cuff","url":"\/products\/double-voluspa-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"},{"id":"366756139","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/double_crown_1_8ccc879e-f5b6-4657-a969-0fb9cb12f235.jpg?v=1571438502"},"price":{"amount":92.0,"currencyCode":"USD"},"product":{"id":"160027863","title":"Double Crown Cuff","untranslatedTitle":"Double Crown Cuff","url":"\/products\/double-crown-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"brass","untranslatedTitle":"brass"},{"id":"366740873","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/gnarled_bangle.jpg?v=1571438502"},"price":{"amount":48.0,"currencyCode":"USD"},"product":{"id":"160028125","title":"Gnarled Bangle","untranslatedTitle":"Gnarled Bangle","url":"\/products\/gnarled-bangle","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Brass","untranslatedTitle":"Brass"},{"id":"280788356","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_3748.jpg?v=1571438501"},"price":{"amount":36.0,"currencyCode":"USD"},"product":{"id":"123492060","title":"Voluspa Cuff","untranslatedTitle":"Voluspa Cuff","url":"\/products\/voluspa-cuff","vendor":"Temerity Jewelry","type":"bracelet"},"sku":"","title":"Brass","untranslatedTitle":"Brass"},{"id":"6308592129","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1288.JPG?v=1571438504"},"price":{"amount":96.0,"currencyCode":"USD"},"product":{"id":"1995175297","title":"Braid Inlay Bangle","untranslatedTitle":"Braid Inlay Bangle","url":"\/products\/braid-inlay-bangle","vendor":"temerity jewelry","type":"bracelet"},"sku":"","title":"Brass \/ Turquoise","untranslatedTitle":"Brass \/ Turquoise"}]}});},"https://temerityjewelry.com/cdn","c20d7c0cc409fec97683d4ec0869ade0d56752f1","a5e579e2w294b04aepacdcb86cme97ddbc7",);</script>  <script>var pageTracker = _gat._getTracker('UA-38704006-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"products":[{"id":314368617,"gid":"gid:\/\/shopify\/Product\/314368617","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":753338553,"price":8200,"name":"Slice Bangle - Brass \/ Jet","public_title":"Brass \/ Jet","sku":""},{"id":753338585,"price":8200,"name":"Slice Bangle - Brass \/ Lapis","public_title":"Brass \/ Lapis","sku":""},{"id":753337717,"price":8200,"name":"Slice Bangle - Brass \/ Kyanite","public_title":"Brass \/ Kyanite","sku":""},{"id":753338569,"price":8200,"name":"Slice Bangle - Brass \/ Malachite","public_title":"Brass \/ Malachite","sku":""},{"id":753338609,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Kyanite","public_title":"Sterling Silver \/ Kyanite","sku":""},{"id":753338613,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Jet","public_title":"Sterling Silver \/ Jet","sku":""},{"id":753338617,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Malachite","public_title":"Sterling Silver \/ Malachite","sku":""},{"id":753338621,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Lapis","public_title":"Sterling Silver \/ Lapis","sku":""},{"id":1042027189,"price":8200,"name":"Slice Bangle - Brass \/ Coral","public_title":"Brass \/ Coral","sku":""},{"id":1042027553,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Coral","public_title":"Sterling Silver \/ Coral","sku":""},{"id":5720335425,"price":8200,"name":"Slice Bangle - Brass \/ Turquoise","public_title":"Brass \/ Turquoise","sku":""},{"id":5720348353,"price":11000,"name":"Slice Bangle - Sterling Silver \/ Turquoise","public_title":"Sterling Silver \/ Turquoise","sku":""}]},{"id":314323265,"gid":"gid:\/\/shopify\/Product\/314323265","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":753333673,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Jet","public_title":"Brass \/ Jet \/ Jet","sku":""},{"id":6607655361,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Jet","public_title":"Brass \/ Turquoise \/ Jet","sku":""},{"id":1118554053,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Coral","public_title":"Brass \/ Jet \/ Coral","sku":""},{"id":6607656001,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Coral","public_title":"Brass \/ Turquoise \/ Coral","sku":""},{"id":753336089,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Jet","public_title":"Brass \/ Lapis \/ Jet","sku":""},{"id":1118554057,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Coral","public_title":"Brass \/ Lapis \/ Coral","sku":""},{"id":753336125,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Jet","public_title":"Brass \/ Kyanite \/ Jet","sku":""},{"id":1118554061,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Coral","public_title":"Brass \/ Kyanite \/ Coral","sku":""},{"id":753336165,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Jet","public_title":"Brass \/ Malachite \/ Jet","sku":""},{"id":1118554065,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Coral","public_title":"Brass \/ Malachite \/ Coral","sku":""},{"id":753336385,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Lapis","public_title":"Brass \/ Lapis \/ Lapis","sku":""},{"id":753336397,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Malachite","public_title":"Brass \/ Lapis \/ Malachite","sku":""},{"id":753336409,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Kyanite","public_title":"Brass \/ Lapis \/ Kyanite","sku":""},{"id":6607668737,"price":15000,"name":"Slice Bangle Set - Brass \/ Lapis \/ Turquoise","public_title":"Brass \/ Lapis \/ Turquoise","sku":""},{"id":753336929,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Lapis","public_title":"Brass \/ Jet \/ Lapis","sku":""},{"id":6607655425,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Lapis","public_title":"Brass \/ Turquoise \/ Lapis","sku":""},{"id":753337017,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Malachite","public_title":"Brass \/ Jet \/ Malachite","sku":""},{"id":6607655553,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Malachite","public_title":"Brass \/ Turquoise \/ Malachite","sku":""},{"id":753337025,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Kyanite","public_title":"Brass \/ Jet \/ Kyanite","sku":""},{"id":6607655617,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Kyanite","public_title":"Brass \/ Turquoise \/ Kyanite","sku":""},{"id":6607668801,"price":15000,"name":"Slice Bangle Set - Brass \/ Jet \/ Turquoise","public_title":"Brass \/ Jet \/ Turquoise","sku":""},{"id":6607669505,"price":15000,"name":"Slice Bangle Set - Brass \/ Turquoise \/ Turquoise","public_title":"Brass \/ Turquoise \/ Turquoise","sku":""},{"id":1118550485,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Kyanite","public_title":"Brass \/ Coral \/ Kyanite","sku":""},{"id":6607669377,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Turquoise","public_title":"Brass \/ Coral \/ Turquoise","sku":""},{"id":753337109,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Lapis","public_title":"Brass \/ Kyanite \/ Lapis","sku":""},{"id":753337189,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Kyanite","public_title":"Brass \/ Kyanite \/ Kyanite","sku":""},{"id":6607668929,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Turquoise","public_title":"Brass \/ Kyanite \/ Turquoise","sku":""},{"id":753337201,"price":15000,"name":"Slice Bangle Set - Brass \/ Kyanite \/ Malachite","public_title":"Brass \/ Kyanite \/ Malachite","sku":""},{"id":753337261,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Lapis","public_title":"Brass \/ Malachite \/ Lapis","sku":""},{"id":753337273,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Malachite","public_title":"Brass \/ Malachite \/ Malachite","sku":""},{"id":753337285,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Kyanite","public_title":"Brass \/ Malachite \/ Kyanite","sku":""},{"id":6607668993,"price":15000,"name":"Slice Bangle Set - Brass \/ Malachite \/ Turquoise","public_title":"Brass \/ Malachite \/ Turquoise","sku":""},{"id":753337481,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Jet","public_title":"Sterling Silver \/ Jet \/ Jet","sku":""},{"id":6607655681,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Jet","public_title":"Sterling Silver \/ Turquoise \/ Jet","sku":""},{"id":1118550489,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Jet","public_title":"Sterling Silver \/ Coral \/ Jet","sku":""},{"id":1118554069,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Coral","public_title":"Sterling Silver \/ Jet \/ Coral","sku":""},{"id":6607656065,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Coral","public_title":"Sterling Silver \/ Turquoise \/ Coral","sku":""},{"id":1118554145,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Coral","public_title":"Sterling Silver \/ Coral \/ Coral","sku":""},{"id":753337485,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Jet","public_title":"Sterling Silver \/ Lapis \/ Jet","sku":""},{"id":1118554081,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Coral","public_title":"Sterling Silver \/ Lapis \/ Coral","sku":""},{"id":753337489,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Jet","public_title":"Sterling Silver \/ Kyanite \/ Jet","sku":""},{"id":1118554097,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Coral","public_title":"Sterling Silver \/ Kyanite \/ Coral","sku":""},{"id":753337493,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Jet","public_title":"Sterling Silver \/ Malachite \/ Jet","sku":""},{"id":1118554113,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Coral","public_title":"Sterling Silver \/ Malachite \/ Coral","sku":""},{"id":753337497,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Lapis","public_title":"Sterling Silver \/ Lapis \/ Lapis","sku":""},{"id":753337501,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Malachite","public_title":"Sterling Silver \/ Lapis \/ Malachite","sku":""},{"id":753337505,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Kyanite","public_title":"Sterling Silver \/ Lapis \/ Kyanite","sku":""},{"id":6607669057,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Lapis \/ Turquoise","public_title":"Sterling Silver \/ Lapis \/ Turquoise","sku":""},{"id":753337509,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Lapis","public_title":"Sterling Silver \/ Jet \/ Lapis","sku":""},{"id":6607655809,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Lapis","public_title":"Sterling Silver \/ Turquoise \/ Lapis","sku":""},{"id":1118550493,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Lapis","public_title":"Sterling Silver \/ Coral \/ Lapis","sku":""},{"id":753337513,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Malachite","public_title":"Sterling Silver \/ Jet \/ Malachite","sku":""},{"id":6607655873,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Malachite","public_title":"Sterling Silver \/ Turquoise \/ Malachite","sku":""},{"id":1118550497,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Malachite","public_title":"Sterling Silver \/ Coral \/ Malachite","sku":""},{"id":753337517,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Kyanite","public_title":"Sterling Silver \/ Jet \/ Kyanite","sku":""},{"id":6607655937,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Kyanite","public_title":"Sterling Silver \/ Turquoise \/ Kyanite","sku":""},{"id":6607669121,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Jet \/ Turquoise","public_title":"Sterling Silver \/ Jet \/ Turquoise","sku":""},{"id":6607669569,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Turquoise \/ Turquoise","public_title":"Sterling Silver \/ Turquoise \/ Turquoise","sku":""},{"id":1118550501,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Kyanite","public_title":"Sterling Silver \/ Coral \/ Kyanite","sku":""},{"id":6607669441,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Coral \/ Turquoise","public_title":"Sterling Silver \/ Coral \/ Turquoise","sku":""},{"id":753337521,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Lapis","public_title":"Sterling Silver \/ Kyanite \/ Lapis","sku":""},{"id":753337525,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Kyanite","public_title":"Sterling Silver \/ Kyanite \/ Kyanite","sku":""},{"id":6607669185,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Turquoise","public_title":"Sterling Silver \/ Kyanite \/ Turquoise","sku":""},{"id":753337529,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Kyanite \/ Malachite","public_title":"Sterling Silver \/ Kyanite \/ Malachite","sku":""},{"id":753337533,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Lapis","public_title":"Sterling Silver \/ Malachite \/ Lapis","sku":""},{"id":753337537,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Malachite","public_title":"Sterling Silver \/ Malachite \/ Malachite","sku":""},{"id":753337541,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Kyanite","public_title":"Sterling Silver \/ Malachite \/ Kyanite","sku":""},{"id":6607669313,"price":20500,"name":"Slice Bangle Set - Sterling Silver \/ Malachite \/ Turquoise","public_title":"Sterling Silver \/ Malachite \/ Turquoise","sku":""},{"id":1118543397,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Jet","public_title":"Brass \/ Coral \/ Jet","sku":""},{"id":1118554125,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Coral","public_title":"Brass \/ Coral \/ Coral","sku":""},{"id":1118546513,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Malachite","public_title":"Brass \/ Coral \/ Malachite","sku":""},{"id":1118549381,"price":15000,"name":"Slice Bangle Set - Brass \/ Coral \/ Lapis","public_title":"Brass \/ Coral \/ Lapis","sku":""}]},{"id":307387769,"gid":"gid:\/\/shopify\/Product\/307387769","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":733028333,"price":9400,"name":"Iona Bangle","public_title":null,"sku":""}]},{"id":321472993,"gid":"gid:\/\/shopify\/Product\/321472993","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":771452833,"price":9000,"name":"Plait Cuff","public_title":null,"sku":""}]},{"id":308181769,"gid":"gid:\/\/shopify\/Product\/308181769","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":735186377,"price":9500,"name":"Box Braid Cuff","public_title":null,"sku":""}]},{"id":256802541,"gid":"gid:\/\/shopify\/Product\/256802541","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588631325,"price":10600,"name":"Lydian Bangle","public_title":null,"sku":""}]},{"id":256823261,"gid":"gid:\/\/shopify\/Product\/256823261","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588692637,"price":9800,"name":"Auric Bangle - Single \/ Brass","public_title":"Single \/ Brass","sku":""},{"id":588696993,"price":16500,"name":"Auric Bangle - Set of 2 \/ Brass","public_title":"Set of 2 \/ Brass","sku":""},{"id":588698049,"price":13000,"name":"Auric Bangle - Single \/ Sterling Silver","public_title":"Single \/ Sterling Silver","sku":""},{"id":588701489,"price":20500,"name":"Auric Bangle - Set of 2 \/ Sterling Silver","public_title":"Set of 2 \/ Sterling Silver","sku":""}]},{"id":256799809,"gid":"gid:\/\/shopify\/Product\/256799809","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588625781,"price":13000,"name":"Echo Bangle","public_title":null,"sku":""}]},{"id":256800149,"gid":"gid:\/\/shopify\/Product\/256800149","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588626533,"price":11500,"name":"Vortex Cuff","public_title":null,"sku":""}]},{"id":256803749,"gid":"gid:\/\/shopify\/Product\/256803749","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588633621,"price":13400,"name":"Halcyon Cuff","public_title":null,"sku":""}]},{"id":256803197,"gid":"gid:\/\/shopify\/Product\/256803197","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588632681,"price":13400,"name":"Rostrum Cuff","public_title":null,"sku":""}]},{"id":256801577,"gid":"gid:\/\/shopify\/Product\/256801577","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":588629341,"price":14500,"name":"Maylin Handpiece","public_title":null,"sku":""}]},{"id":164624513,"gid":"gid:\/\/shopify\/Product\/164624513","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":378143919,"price":10300,"name":"Shen Bangle","public_title":null,"sku":""}]},{"id":184595225,"gid":"gid:\/\/shopify\/Product\/184595225","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":422829205,"price":9200,"name":"Luxor Cuff","public_title":null,"sku":""}]},{"id":162293071,"gid":"gid:\/\/shopify\/Product\/162293071","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":372010641,"price":12000,"name":"Phaedra Bracelet - brass","public_title":"brass","sku":""},{"id":378529597,"price":18500,"name":"Phaedra Bracelet - silver","public_title":"silver","sku":""}]},{"id":131523403,"gid":"gid:\/\/shopify\/Product\/131523403","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":298091407,"price":12400,"name":"Somnium Bangle","public_title":null,"sku":""}]},{"id":184538605,"gid":"gid:\/\/shopify\/Product\/184538605","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":422719177,"price":17500,"name":"Neith Cuff - hematite\/carnelian","public_title":"hematite\/carnelian","sku":""},{"id":422863497,"price":17500,"name":"Neith Cuff - carnelian\/moonstone","public_title":"carnelian\/moonstone","sku":""},{"id":422863541,"price":17500,"name":"Neith Cuff - hematite\/moonstone","public_title":"hematite\/moonstone","sku":""}]},{"id":164756411,"gid":"gid:\/\/shopify\/Product\/164756411","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":378534547,"price":10300,"name":"Sybel Bangle","public_title":null,"sku":""}]},{"id":123240384,"gid":"gid:\/\/shopify\/Product\/123240384","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":280013614,"price":11700,"name":"Sundial Bracelet","public_title":null,"sku":""}]},{"id":123483858,"gid":"gid:\/\/shopify\/Product\/123483858","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":280761854,"price":8800,"name":"Double Voluspa Cuff","public_title":null,"sku":""}]},{"id":160027863,"gid":"gid:\/\/shopify\/Product\/160027863","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":366756139,"price":9200,"name":"Double Crown Cuff - brass","public_title":"brass","sku":""},{"id":366756325,"price":11500,"name":"Double Crown Cuff - sterling silver","public_title":"sterling silver","sku":""}]},{"id":160028125,"gid":"gid:\/\/shopify\/Product\/160028125","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":366740873,"price":4800,"name":"Gnarled Bangle - Brass","public_title":"Brass","sku":""},{"id":589039865,"price":6500,"name":"Gnarled Bangle - Sterling Silver","public_title":"Sterling Silver","sku":""}]},{"id":123492060,"gid":"gid:\/\/shopify\/Product\/123492060","vendor":"Temerity Jewelry","type":"bracelet","variants":[{"id":280788356,"price":3600,"name":"Voluspa Cuff - Brass","public_title":"Brass","sku":""},{"id":281392516,"price":5200,"name":"Voluspa Cuff - Sterling Silver","public_title":"Sterling Silver","sku":""}]},{"id":1995175297,"gid":"gid:\/\/shopify\/Product\/1995175297","vendor":"temerity jewelry","type":"bracelet","variants":[{"id":6308592129,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Turquoise","public_title":"Brass \/ Turquoise","sku":""},{"id":6308703809,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Lapis","public_title":"Brass \/ Lapis","sku":""},{"id":6308703873,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Malachite","public_title":"Brass \/ Malachite","sku":""},{"id":6308703937,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Jet","public_title":"Brass \/ Jet","sku":""},{"id":6308704001,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Kyanite","public_title":"Brass \/ Kyanite","sku":""},{"id":6308704065,"price":9600,"name":"Braid Inlay Bangle - Brass \/ Coral","public_title":"Brass \/ Coral","sku":""},{"id":6308704129,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Turquoise","public_title":"Sterling Silver \/ Turquoise","sku":""},{"id":6308704193,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Lapis","public_title":"Sterling Silver \/ Lapis","sku":""},{"id":6308704257,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Malachite","public_title":"Sterling Silver \/ Malachite","sku":""},{"id":6308704321,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Jet","public_title":"Sterling Silver \/ Jet","sku":""},{"id":6308704385,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Kyanite","public_title":"Sterling Silver \/ Kyanite","sku":""},{"id":6308704449,"price":12400,"name":"Braid Inlay Bangle - Sterling Silver \/ Coral","public_title":"Sterling Silver \/ Coral","sku":""}]}],"page":{"pageType":"collection","resourceType":"collection","resourceId":9232596}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 2122932,
+      theme_id: 108139585,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//temerityjewelry.com/cdn/s/trekkie.storefront.99bdfbca815ea24ab1705979a783df6e7810b51d.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//temerityjewelry.com/cdn/s/trekkie.storefront.99bdfbca815ea24ab1705979a783df6e7810b51d.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//temerityjewelry.com/cdn/s/trekkie.storefront.99bdfbca815ea24ab1705979a783df6e7810b51d.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":2122932,"isMerchantRequest":null,"themeId":108139585,"themeCityHash":"287490475274045890","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"collection","resourceType":"collection","resourceId":9232596});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product Category",{"currency":"USD","category":"Collection: bracelets","collectionName":"bracelets","collectionId":9232596,"nonInteraction":true});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//temerityjewelry.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 2122932;
+  window.BOOMR.themeId = 108139585;
+  window.BOOMR.renderRegion = "gcp-asia-southeast1";
+  window.BOOMR.url =
+    "https://temerityjewelry.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script src="//stats.g.doubleclick.net/dc.js"></script>
+</head>
+
+<body id="bracelets" class="template-collection" >
+  <div id="SearchDrawer" class="search-bar drawer drawer--top">
+    <div class="search-bar__table">
+      <form action="/search" method="get" class="search-bar__table-cell search-bar__form" role="search">
+        <div class="search-bar__table">
+          <div class="search-bar__table-cell search-bar__icon-cell">
+            <button type="submit" class="search-bar__icon-button search-bar__submit">
+              <span class="icon icon-search" aria-hidden="true"></span>
+              <span class="icon__fallback-text">Search</span>
+            </button>
+          </div>
+          <div class="search-bar__table-cell">
+            <input type="search" id="SearchInput" name="q" value="" placeholder="Search our store" aria-label="Search our store" class="search-bar__input">
+          </div>
+        </div>
+      </form>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="search-bar__icon-button search-bar__close js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">close (esc)</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="NavDrawer" class="drawer drawer--left">
+    <div class="drawer__header">
+      <div class="drawer__close">
+        <button type="button" class="drawer__close-button js-drawer-close">
+          <span class="icon icon-x" aria-hidden="true"></span>
+          <span class="icon__fallback-text">Close menu</span>
+        </button>
+      </div>
+    </div>
+    <div class="drawer__inner">
+      <ul class="drawer-nav">
+        
+          
+          
+            
+            
+            
+            <li class="drawer-nav__item" aria-haspopup="true">
+              <div class="drawer-nav__has-sublist drawer-nav--expanded">
+                <a href="/collections/shop-all" class="drawer-nav__link h2">shop</a>
+                <div class="drawer-nav__toggle">
+                  <button type="button" class="drawer-nav__toggle-button">
+                    <span class="drawer-nav__toggle-open">
+                      <span class="icon icon-plus" aria-hidden="true"></span>
+                      <span class="icon__fallback-text">See More</span>
+                    </span>
+                    <span class="drawer-nav__toggle-close">
+                      <span class="icon icon-minus" aria-hidden="true"></span>
+                      <span class="icon__fallback-text">Close cart</span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <ul class="drawer-nav__sublist">
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/hair-accessories" class="drawer-nav__link">hair accessories</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/rings" class="drawer-nav__link">rings</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/necklaces" class="drawer-nav__link">necklaces</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/earrings" class="drawer-nav__link">earrings</a>
+                  </li>
+                
+                  <li class="drawer-nav__item drawer-nav__item--active">
+                    <a href="/collections/bracelets" class="drawer-nav__link">bracelets</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/new-arrivals" class="drawer-nav__link">new arrivals</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/collars-chokers" class="drawer-nav__link">collars  &amp; chokers</a>
+                  </li>
+                
+                  <li class="drawer-nav__item">
+                    <a href="/collections/shop-all" class="drawer-nav__link">view all</a>
+                  </li>
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="/pages/lookbook-1" class="drawer-nav__link h2">lookbooks</a>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="/pages/stockists" class="drawer-nav__link h2">stockists</a>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="/pages/press" class="drawer-nav__link h2">press</a>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="/pages/about" class="drawer-nav__link h2">about</a>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="/pages/contact" class="drawer-nav__link h2">contact</a>
+            </li>
+          
+        
+          
+          
+            <li class="drawer-nav__item">
+              <a href="http://temerityjewelry.tumblr.com" class="drawer-nav__link h2">journal</a>
+            </li>
+          
+        
+
+        <li class="drawer-nav__spacer"></li>
+
+        
+          
+            <li class="drawer-nav__item drawer-nav__item--secondary">
+              <a href="/account/login" id="customer_login_link">Log in</a>
+            </li>
+            <li class="drawer-nav__item drawer-nav__item--secondary">
+              <a href="/account/register" id="customer_register_link">Create account</a>
+            </li>
+          
+        
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/jewelry-care">jewelry care</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/pages/customer-service-policies">customer service & policies</a></li>
+        
+          <li class="drawer-nav__item drawer-nav__item--secondary"><a href="/search">search</a></li>
+        
+      </ul>
+
+      <ul class="list--inline social-icons social-icons--drawer">
+        
+        
+          <li>
+            <a href="https://facebook.com/temerityjewelry" title="temerity jewelry on Facebook">
+              <span class="icon icon-facebook" aria-hidden="true"></span>
+              <span class="visually-hidden">Facebook</span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://pinterest.com/temerityjewelry" title="temerity jewelry on Pinterest">
+              <span class="icon icon-pinterest" aria-hidden="true"></span>
+              <span class="visually-hidden">Pinterest</span>
+            </a>
+          </li>
+        
+        
+        
+          <li>
+            <a href="https://instagram.com/temerityjewelry" title="temerity jewelry on Instagram">
+              <span class="icon icon-instagram" aria-hidden="true"></span>
+              <span class="visually-hidden">Instagram</span>
+            </a>
+          </li>
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+  </div>
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+      <div class="drawer__header">
+        <div class="drawer__close">
+          <button type="button" class="drawer__close-button js-drawer-close">
+            <span class="icon icon-x" aria-hidden="true"></span>
+            <span class="icon__fallback-text">Close cart</span>
+          </button>
+        </div>
+      </div>
+      <div class="drawer__inner">
+        <div id="CartContainer">
+        </div>
+      </div>
+  </div>
+
+  <div id="PageContainer">
+    <div class="site-header-wrapper">
+      <div class="site-header-container">
+        <header class="site-header" role="banner">
+          <div class="grid grid--no-gutters grid--table site-header__inner">
+            <div class="grid__item one-third medium-up--one-sixth">
+              <button type="button" class="site-header__link text-link site-header__toggle-nav js-drawer-open-left">
+                <span class="icon icon-hamburger" aria-hidden="true"></span>
+                <span class="icon__fallback-text">Menu</span>
+              </button>
+            </div>
+            <div class="grid__item one-third medium-up--two-thirds">
+
+              
+              
+                <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization">
+              
+
+                
+                  <a href="/" itemprop="url" class="site-header__logo-link text-center">
+                    <img class="site-header__logo-image" src="//temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198" alt="temerity jewelry" itemprop="logo">
+                  </a>
+                
+
+              
+                </div>
+              
+
+            </div>
+
+            <div class="grid__item one-third medium-up--one-sixth text-right">
+              <a href="/search" class="site-header__link site-header__search js-drawer-open-top">
+                <span class="icon icon-search" aria-hidden="true"></span>
+                <span class="icon__fallback-text">Search</span>
+              </a>
+              <a href="/cart" class="site-header__link site-header__cart cart-link js-drawer-open-right">
+                <span class="icon icon-cart" aria-hidden="true"></span>
+                <span class="icon__fallback-text">Cart</span>
+              </a>
+            </div>
+          </div>
+        </header>
+
+        <div class="action-area">
+          
+            <!-- snippets/action-bar.liquid -->
+
+
+
+
+
+
+<div class="action-bar-wrapper ">
+  <nav class="action-bar action-bar--has-menu" role="presentation">
+    <ul class="action-bar__menu--main action-bar__menu list--inline " id="SiteNav" role="navigation">
+      
+      
+        
+        
+          
+          <li class="action-bar__menu-item action-bar--has-dropdown action-bar--active action-bar--disabled" data-child-list-handle="shop" >
+            <a href="/collections/shop-all" class="action-bar__link" aria-controls="Shop">shop</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="/pages/lookbook-1" class="action-bar__link">lookbooks</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="/pages/stockists" class="action-bar__link">stockists</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="/pages/press" class="action-bar__link">press</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="/pages/about" class="action-bar__link">about</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="/pages/contact" class="action-bar__link">contact</a>
+          </li>
+        
+      
+        
+        
+          <li class="action-bar__menu-item ">
+            <a href="http://temerityjewelry.tumblr.com" class="action-bar__link">journal</a>
+          </li>
+        
+      
+    </ul>
+
+    
+      
+      
+        <ul class="action-bar__menu--sub action-bar__menu list--inline   action-bar--show" id="Shop" data-child-list-handle="shop" role="navigation">
+          <li>
+            <button type="button" class="btn action-bar__back action-bar__link" aria-controls="SiteNav">
+              <span class="icon icon-arrow-left" aria-hidden="true"></span>
+              <span class="icon__fallback-text">Back to site navigation</span>
+            </button>
+          </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/hair-accessories" class="action-bar__link">hair accessories</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/rings" class="action-bar__link">rings</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/necklaces" class="action-bar__link">necklaces</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/earrings" class="action-bar__link">earrings</a>
+            </li>
+          
+            <li class="action-bar__menu-item action-bar--active">
+              <a href="/collections/bracelets" class="action-bar__link">bracelets</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/new-arrivals" class="action-bar__link">new arrivals</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/collars-chokers" class="action-bar__link">collars  &amp; chokers</a>
+            </li>
+          
+            <li class="action-bar__menu-item ">
+              <a href="/collections/shop-all" class="action-bar__link">view all</a>
+            </li>
+          
+        </ul>
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+  </nav>
+</div>
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+
+    <main class="main-content" role="main">
+      <!-- /templates/collection.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid collection-grid grid--uniform grid--no-gutters">
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/slice-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_bangle_grande.jpg?v=1571438504" alt="Slice Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Slice Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $82
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/slice-bangle-set">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_and_jet_bangles_2_grande.jpg?v=1571438504" alt="Slice Bangle Set">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Slice Bangle Set</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $150
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/iona-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/iona_bangle_1_f9913f3c-bb96-40f5-b10c-5a6ef7ecf021_grande.JPG?v=1571438504" alt="Iona Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Iona Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $94
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/plait-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Plait_Cuff_1_grande.JPG?v=1571438504" alt="Plait Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Plait Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $90
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/braid-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/boxbraid2_grande.JPG?v=1571438504" alt="Box Braid Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Box Braid Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $95
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/lydian-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Bead_Bangle_1_grande.JPG?v=1571438503" alt="Lydian Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Lydian Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $106
+            
+          
+        </p>
+
+        
+        
+          <p class="product-item__sold-out">Sold out</p>
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/auric-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Egg_Bangle_3_grande.JPG?v=1571438503" alt="Auric Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Auric Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $98
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/echo-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Vortex_Bangle_grande.JPG?v=1571438503" alt="Echo Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Echo Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $130
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/vortex-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Vortex_Cuff_grande.JPG?v=1571438503" alt="Vortex Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Vortex Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $115
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/halcyon-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Petal_Cuff_1_grande.JPG?v=1571438503" alt="Halcyon Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Halcyon Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $134
+            
+          
+        </p>
+
+        
+        
+          <p class="product-item__sold-out">Sold out</p>
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/rostrum-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Rostrum_Cuff_1_whiter_background_grande.jpg?v=1571438503" alt="Rostrum Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Rostrum Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $134
+            
+          
+        </p>
+
+        
+        
+          <p class="product-item__sold-out">Sold out</p>
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/maylin-handpiece">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Vortex_Handpiece_1_grande.JPG?v=1571438503" alt="Maylin Handpiece">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Maylin Handpiece</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $145
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/shen-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/sq_Shen_Bangle_1_grande.jpg?v=1571438502" alt="Shen Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Shen Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $103
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/luxor-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/sqLuxor_Cuff_2_grande.jpg?v=1571438503" alt="Luxor Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Luxor Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $92
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/phaedra-bracelet">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/sq_Phaedra_Bracelet_2_grande.jpg?v=1571438502" alt="Phaedra Bracelet">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Phaedra Bracelet</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $120
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/somnium-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/square_Somnium_Bangle_2_grande.jpg?v=1571438502" alt="Somnium Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Somnium Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $124
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/neith-cuff-carnelian-hematite">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Neith_Cuff_CarnHem_2_grande.jpg?v=1571438503" alt="Neith Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Neith Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $175
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/sybel-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/sq_Sybel_Bangle_a14d60c7-ee3c-4174-827e-cdf213e149bf_grande.jpg?v=1571438503" alt="Sybel Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Sybel Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $103
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/sundial-bracelet">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_3737_grande.jpg?v=1571438501" alt="Sundial Bracelet">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Sundial Bracelet</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $117
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/double-voluspa-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/dbl_vol_grande.jpg?v=1571438501" alt="Double Voluspa Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Double Voluspa Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              
+                <span class="visually-hidden">Regular price</span>
+              
+              $88
+            
+          
+        </p>
+
+        
+        
+          <p class="product-item__sold-out">Sold out</p>
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/double-crown-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/double_crown_1_8ccc879e-f5b6-4657-a969-0fb9cb12f235_grande.jpg?v=1571438502" alt="Double Crown Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Double Crown Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $92
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/gnarled-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/gnarled_bangle_grande.jpg?v=1571438502" alt="Gnarled Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Gnarled Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            <span class="visually-hidden">Regular price</span>
+            <s class="product-item__price--reg">$96</s>
+            <span class="product-item__price--sale"><span class="txt--emphasis">now</span> <span class="js-price">$48</span></span>
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+      
+      <span class="product-item__badge ">
+        Sale
+      </span>
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/voluspa-cuff">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_3748_grande.jpg?v=1571438501" alt="Voluspa Cuff">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Voluspa Cuff</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            <span class="visually-hidden">Regular price</span>
+            <s class="product-item__price--reg">$72</s>
+            <span class="product-item__price--sale"><span class="txt--emphasis">now</span> <span class="js-price">$36</span></span>
+          
+        </p>
+
+        
+        
+          <p class="product-item__sold-out">Sold out</p>
+        
+      </span>
+    </span>
+
+    
+    
+      
+      <span class="product-item__badge ">
+        Sale
+      </span>
+    
+  </a>
+</div>
+
+  
+    
+    <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
+  <a class="product-item__link " href="/collections/bracelets/products/braid-inlay-bangle">
+    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1288_grande.JPG?v=1571438504" alt="Braid Inlay Bangle">
+
+    <span class="product-item__meta">
+      <span class="product-item__meta__inner">
+        
+        <p class="product-item__title">Braid Inlay Bangle</p>
+        <p class="product-item__price-wrapper">
+          
+          
+            
+              <span class="txt--emphasis">from</span> $96
+            
+          
+        </p>
+
+        
+        
+      </span>
+    </span>
+
+    
+    
+  </a>
+</div>
+
+  
+</div>
+
+
+
+
+
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      
+      
+        <ul class="list--inline site-footer__linklist">
+          
+            <li class="h4"><a href="/pages/jewelry-care">jewelry care</a></li>
+          
+            <li class="h4"><a href="/pages/customer-service-policies">customer service & policies</a></li>
+          
+            <li class="h4"><a href="/search">search</a></li>
+          
+        </ul>
+      
+
+      <div class="grid text-center large-up--grid--table">
+        <div class="grid__item large-up--one-quarter text-center">
+          <ul class="list--inline social-icons social-icons--footer">
+            
+            
+              <li>
+                <a href="https://facebook.com/temerityjewelry" title="temerity jewelry on Facebook">
+                  <span class="icon icon-facebook" aria-hidden="true"></span>
+                  <span class="visually-hidden">Facebook</span>
+                </a>
+              </li>
+            
+            
+              <li>
+                <a href="https://pinterest.com/temerityjewelry" title="temerity jewelry on Pinterest">
+                  <span class="icon icon-pinterest" aria-hidden="true"></span>
+                  <span class="visually-hidden">Pinterest</span>
+                </a>
+              </li>
+            
+            
+            
+              <li>
+                <a href="https://instagram.com/temerityjewelry" title="temerity jewelry on Instagram">
+                  <span class="icon icon-instagram" aria-hidden="true"></span>
+                  <span class="visually-hidden">Instagram</span>
+                </a>
+              </li>
+            
+            
+            
+            
+            
+          </ul>
+        </div>
+        <div class="grid__item large-up--one-half">
+          <span class="site-footer__copyright">&copy; 2024, <a href="/">temerity jewelry</a>. <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Ecommerce Software by Shopify</a></span>
+        </div>
+        <div class="grid__item large-up--one-quarter text-center">
+          
+            <ul class="list--inline payment-icons payment-icons--footer">
+              
+                <li>
+                  <span class="icon icon-american_express" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">american express</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-diners_club" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">diners club</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-discover" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">discover</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-facebook_pay" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">facebook pay</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-master" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">master</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-paypal" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">paypal</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-shopify_pay" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">shopify pay</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-venmo" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">venmo</span>
+                </li>
+              
+                <li>
+                  <span class="icon icon-visa" aria-hidden="true"></span>
+                  <span class="icon__fallback-text">visa</span>
+                </li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/themes_support/api.jquery-b0af070cfe3f5cf7c92f9e2a5da2665ee07ed2aad63bb408f8d6672f894a5996.js" type="text/javascript"></script>
+  <script src="//temerityjewelry.com/cdn/shop/t/7/assets/theme.js?v=72525535480361859401466039853" type="text/javascript"></script>
+
+  
+
+  
+  
+    <script id="CartTemplate" type="text/template">
+      
+        <form action="/cart" method="post" novalidate class="cart ajaxcart">
+          <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+            {{#items}}
+            <div class="ajaxcart__row">
+              <div class="ajaxcart__product" data-line="{{line}}">
+                <div class="grid grid--half-gutters">
+                  <div class="grid__item one-quarter">
+                    <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+                  </div>
+                  <div class="grid__item three-quarters">
+                    <div class="ajaxcart__product-name-wrapper">
+                      <a href="{{url}}" class="ajaxcart__product-name h4">{{name}}</a>
+                      {{#if variation}}
+                        <span class="ajaxcart__product-meta">{{variation}}</span>
+                      {{/if}}
+                      {{#properties}}
+                        {{#each this}}
+                          {{#if this}}
+                            <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                          {{/if}}
+                        {{/each}}
+                      {{/properties}}
+                    </div>
+
+                    <div class="grid grid--table">
+                      <div class="grid__item one-half">
+                        <div class="ajaxcart__qty">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus" data-id="{{id}}" data-qty="{{itemMinus}}" data-line="{{line}}">
+                            <span class="icon icon-minus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text">&minus;</span>
+                          </button>
+                          <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{id}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                          <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemAdd}}">
+                            <span class="icon icon-plus" aria-hidden="true"></span>
+                            <span class="icon__fallback-text">+</span>
+                          </button>
+                        </div>
+                      </div>
+                      <div class="grid__item one-half text-right">
+                      {{#if discountsApplied}}
+                        <small class="ajaxcart-item__price-strikethrough"><s>{{{originalLinePrice}}}</s></small>
+                        <br><span>{{{linePrice}}}</span>
+                      {{else}}
+                         <span>{{{linePrice}}}</span>
+                      {{/if}}
+                      </div>
+                    </div>
+                    {{#if discountsApplied}}
+                      <div class="grid grid--table">
+                        <div class="grid__item text-right">
+                          {{#each discounts}}
+                            <small class="ajaxcart-item__discount">{{ this.title }}</small><br>
+                          {{/each}}
+                        </div>
+                      </div>
+                    {{/if}}
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{/items}}
+
+            
+          </div>
+          <div class="ajaxcart__footer ajaxcart__footer--fixed">
+            <div class="ajaxcart__subtotal">
+              <div class="grid grid--table">
+                <div class="grid__item two-thirds">
+                  <span class="ajaxcart__subtotal-title h3">Subtotal</span>
+                </div>
+                <div class="grid__item one-third text-right">
+                  <span>{{{totalPrice}}}</span>
+                </div>
+              </div>
+              {{#if totalCartDiscountApplied}}
+                <p class="ajaxcart__savings text-center"><em>{{{totalCartDiscount}}}</em></p>
+              {{/if}}
+            </div>
+            <p class="text-center ajaxcart__note txt--minor">Shipping and taxes calculated at checkout</p>
+            <button type="submit" class="btn btn--full cart__checkout" name="checkout">
+              Check out
+            </button>
+          </div>
+        </form>
+      
+    </script>
+    <script id="JsQty" type="text/template">
+      
+        <div class="js-qty">
+          <button type="button" class="js-qty__adjust js-qty__adjust--minus" data-id="{{id}}" data-qty="{{itemMinus}}">
+            <span class="icon icon-minus" aria-hidden="true"></span>
+            <span class="icon__fallback-text">&minus;</span>
+          </button>
+          <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{id}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+          <button type="button" class="js-qty__adjust js-qty__adjust--plus" data-id="{{id}}" data-qty="{{itemAdd}}">
+            <span class="icon icon-plus" aria-hidden="true"></span>
+            <span class="icon__fallback-text">+</span>
+          </button>
+        </div>
+      
+    </script>
+
+    <script>
+      jQuery(function($) {
+        ajaxCart.init({
+          formSelector: '.product__form',
+          cartContainer: '#CartContainer',
+          addToCartSelector: '.add-to-cart',
+          moneyFormat: "${{amount}}"
+        });
+      });
+    </script>
+  
+
+</body>
+</html>

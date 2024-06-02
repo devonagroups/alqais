@@ -14,48 +14,30 @@
     <link rel="shortcut icon" href="//temerityjewelry.com/cdn/shop/t/7/assets/favicon.png?v=145128270709770678001467064532" type="image/png" />
   
 
-  <link rel="canonical" href="https://temerityjewelry.com/">
+  <link rel="canonical" href="https://temerityjewelry.com/products/treccia-hairpin">
   <!-- Title and description ================================================== -->
   <title>
-  temerity jewelry
+  Treccia Hairpin &ndash; temerity jewelry
   </title>
 
   
-    <meta name="description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
+    <meta name="description" content="the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it&#39;s the perfect adornment to your every day messy up-do.">
   
 
   <!-- Social Meta Tags ===================================== -->
   <!-- /snippets/social-meta-tags.liquid -->
 
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="temerity jewelry">
-  <meta property="og:url" content="https://temerityjewelry.com">
+  <meta property="og:type" content="product">
+  <meta property="og:title" content="Treccia Hairpin">
+  <meta property="og:url" content="https://temerityjewelry.com/products/treccia-hairpin">
   
-    
-      
-      
-      
-        <meta property="og:image" content="http://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-        <meta property="og:image:secure_url" content="https://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
+    <meta property="og:image" content="http://temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504">
+    <meta property="og:image:secure_url" content="https://temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504">
   
-  
-    <meta property="og:description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
-  
+  <meta property="og:description" content="the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it&#39;s the perfect adornment to your every day messy up-do.">
+  <meta property="og:price:amount" content="118.00">
+  <meta property="og:price:currency" content="USD">
 
 <meta property="og:site_name" content="temerity jewelry">
 
@@ -63,23 +45,15 @@
 
 
 
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary">
 
 
 
-  <meta name="twitter:title" content="temerity jewelry">
-  
-    <meta name="twitter:description" content="temerity jewelry is handcrafted in brooklyn by designer roberta gorin, using lost wax casting and hand-forging techniques, brass, sterling silver, pink silver,">
-  
-  
-  
-    
-     
-     
-       
-         <meta name="twitter:image" content="https://temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330">
-         
-  
+  <meta name="twitter:title" content="Treccia Hairpin">
+  <meta name="twitter:description" content="the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it&#39;s...">
+  <meta name="twitter:image" content="https://temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504">
+  <meta name="twitter:image:width" content="600">
+  <meta name="twitter:image:height" content="600">
 
 
 
@@ -100,6 +74,7 @@
   <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/2122932/digital_wallets/dialog">
 <meta name="shopify-checkout-api-token" content="f9f158f61f953c806e5a805e5e874247">
 <meta id="in-context-paypal-metadata" data-shop-id="2122932" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<link rel="alternate" type="application/json+oembed" href="https://temerityjewelry.com/products/treccia-hairpin.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
 <script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=2122932" crossorigin="anonymous"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"f9f158f61f953c806e5a805e5e874247","betas":["rich-media-storefront-analytics"],"domain":"temerityjewelry.com","predictiveSearch":true,"shopId":2122932,"smart_payment_buttons_url":"https:\/\/temerityjewelry.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/temerityjewelry.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
@@ -119,13 +94,13 @@ Shopify.routes.root = "/";</script>
 <script>window.ShopifyPay = window.ShopifyPay || {};
 window.ShopifyPay.apiHost = "shop.app\/pay";</script>
 <script id="shop-js-features" type="application/json">{"compact":true}</script>
-<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
 <script>
   window.Shopify = window.Shopify || {};
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
   window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_BfvhN2Qv.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_B6rHEUt1.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_Cftt1jI7.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_CmlWVbxq.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_gEZHFYw4.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_Ckt0oBsC.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"login-button":["modules/client.login-button_Bte5VVOo.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"discount-app":["modules/client.discount-app_p9pUn-8K.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_OylSdEMc.en.esm.js","modules/chunk.common_D5kDlea7.esm.js","modules/chunk.shop-pay_Bb_30Z23.esm.js"],"payment-terms":["modules/client.payment-terms_HnA3nfXJ.en.esm.js","modules/chunk.common_D5kDlea7.esm.js"]};
 </script>
-<script id="__st">var __st={"a":2122932,"offset":-14400,"reqid":"590fc4a5-a69e-4850-8dd4-6a10e2cf7ce2-1717308279","pageurl":"temerityjewelry.com\/","u":"4c474575dfee","p":"home"};</script>
+<script id="__st">var __st={"a":2122932,"offset":-14400,"reqid":"b09f9910-a111-4af3-b7d4-7fa7f6b078b1-1717308297","pageurl":"temerityjewelry.com\/products\/treccia-hairpin","u":"ab5747e37138","p":"product","rtyp":"product","rid":3596306177};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const e='contact',t='account',n='new_comment',o=e=>e.map((([e,t])=>`form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(',');function c(e,t){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(t))))e.elements[o]&&(e.elements[o].value=c);n.removeItem(t)}catch{}}const s='form_type',r='cptcha';((a,i,m,f,u,d)=>{if(0)return;let l=!1;a[m]=a[m]||{},a[m][f]=a[m][f]||{},a[m][f].q=[],function(a,i,m,f,u,d){const[l,_,p]=function(c,s,r){const a=s?[[e,e],['blogs',n],['comments',n],[e,'customer']]:[],i=c?[[t,'customer_login'],[t,'guest_login'],[t,'recover_customer_password'],[t,'create_customer']]:[],m=[...a,...i],f=o(m),u=o(a.slice(0,3)),d=r&&o(m.filter((([e,t])=>r.includes(t)))),l=e=>()=>e?[...document.querySelectorAll(e)].map((e=>e.form)):[];return[l(f),l(u),l(d)]}(!0,!0,d),E=e=>{const t=e.target,n=t instanceof HTMLFormElement?t:t&&t.form;return n&&l().find((e=>n===e))};a.addEventListener('submit',(e=>{E(e)&&e.preventDefault()}));const T=(e,t)=>{m(e,t.some((t=>t===e))),e.dataset[r]=!0};for(const e of['focusin','change'])a.addEventListener(e,(e=>{const t=E(e);t&&!t.dataset[r]&&T(t,_())}));const g=i.get('form_key'),v=i.get(s),h=g&&v,y=d&&d.length;(y||h)&&a.addEventListener('DOMContentLoaded',(()=>{const e=_();if(h)for(const t of e)t.elements[s].value===v&&c(t,g);if(y)for(const t of p())T(t,e)}))}(i,new URLSearchParams(a.location.search),((e,t)=>{const n=a[m][f],o=n.bindForm,c='6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey',s={infoText:'',privacyText:'',termsText:''};if(o)return o(e,c,t,s);n.q.push([e,c,t,s]),l||(i.body.append(Object.assign(i.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.1.1.iife.js'})),l=!0)}),0,0,['guest_login'])})(window,document,'Shopify','ce_forms')}();</script>
 <script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
@@ -154,12 +129,12 @@ window.ShopifyPay.apiHost = "shop.app\/pay";</script>
   
 
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 2122932,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 2122932,storefrontBaseUrl: "https://temerityjewelry.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"090","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"090","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[],"shop":{"name":"temerity jewelry","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"temerityjewelry.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/temerityjewelry.com"}},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://temerityjewelry.com/cdn","c20d7c0cc409fec97683d4ec0869ade0d56752f1","a5e579e2w294b04aepacdcb86cme97ddbc7",);</script>  <script>var pageTracker = _gat._getTracker('UA-38704006-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 2122932,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 2122932,storefrontBaseUrl: "https://temerityjewelry.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"090","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"090","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"10516321793","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"},"price":{"amount":118.0,"currencyCode":"USD"},"product":{"id":"3596306177","title":"Treccia Hairpin","untranslatedTitle":"Treccia Hairpin","url":"\/products\/treccia-hairpin","vendor":"temerity jewelry","type":""},"sku":"","title":"Brass","untranslatedTitle":"Brass"},{"id":"10516321857","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"},"price":{"amount":140.0,"currencyCode":"USD"},"product":{"id":"3596306177","title":"Treccia Hairpin","untranslatedTitle":"Treccia Hairpin","url":"\/products\/treccia-hairpin","vendor":"temerity jewelry","type":""},"sku":"","title":"Sterling Silver","untranslatedTitle":"Sterling Silver"}],"shop":{"name":"temerity jewelry","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"temerityjewelry.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/temerityjewelry.com"}},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"10516321793","image":{"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"},"price":{"amount":118.0,"currencyCode":"USD"},"product":{"id":"3596306177","title":"Treccia Hairpin","untranslatedTitle":"Treccia Hairpin","url":"\/products\/treccia-hairpin","vendor":"temerity jewelry","type":""},"sku":"","title":"Brass","untranslatedTitle":"Brass"}});},"https://temerityjewelry.com/cdn","c20d7c0cc409fec97683d4ec0869ade0d56752f1","a5e579e2w294b04aepacdcb86cme97ddbc7",);</script>  <script>var pageTracker = _gat._getTracker('UA-38704006-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'USD';
-var meta = {"page":{"pageType":"home"}};
+var meta = {"product":{"id":3596306177,"gid":"gid:\/\/shopify\/Product\/3596306177","vendor":"temerity jewelry","type":"","variants":[{"id":10516321793,"price":11800,"name":"Treccia Hairpin - Brass","public_title":"Brass","sku":""},{"id":10516321857,"price":14000,"name":"Treccia Hairpin - Sterling Silver","public_title":"Sterling Silver","sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":3596306177}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -308,13 +283,14 @@ for (var attr in meta) {
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":3596306177});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
       if (!hasLoggedConversion(token)) {
         setCookieIfConversion(token);
-        
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"USD","variantId":10516321793,"productId":3596306177,"productGid":"gid:\/\/shopify\/Product\/3596306177","name":"Treccia Hairpin - Brass","price":"118.00","sku":"","brand":"temerity jewelry","variant":"Brass","category":"","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"USD","variantId":10516321793,"productId":3596306177,"productGid":"gid:\/\/shopify\/Product\/3596306177","name":"Treccia Hairpin - Brass","price":"118.00","sku":"","brand":"temerity jewelry","variant":"Brass","category":"","nonInteraction":true,"referer":"https:\/\/temerityjewelry.com\/products\/treccia-hairpin"});
       }
     });
 
@@ -473,7 +449,7 @@ for (var attr in meta) {
 <script src="//stats.g.doubleclick.net/dc.js"></script>
 </head>
 
-<body id="temerity-jewelry" class="template-index" >
+<body id="treccia-hairpin" class="template-product" >
   <div id="SearchDrawer" class="search-bar drawer drawer--top">
     <div class="search-bar__table">
       <form action="/search" method="get" class="search-bar__table-cell search-bar__form" role="search">
@@ -696,7 +672,7 @@ for (var attr in meta) {
 
               
               
-                <h1 class="site-header__logo" itemscope itemtype="http://schema.org/Organization">
+                <div class="site-header__logo h1" itemscope itemtype="http://schema.org/Organization">
               
 
                 
@@ -706,7 +682,7 @@ for (var attr in meta) {
                 
 
               
-                </h1>
+                </div>
               
 
             </div>
@@ -733,945 +709,163 @@ for (var attr in meta) {
     </div>
 
     <main class="main-content" role="main">
-      <!-- /templates/index.liquid -->
+      <!-- /templates/product.liquid -->
 
-<div class="hero-wrapper">
-  <div class="hero__site-header">
-    <div class="grid grid--no-gutter grid--table site-header__inner">
-      <div class="grid__item one-half">
-        <button type="button" class="site-header__link text-link site-header__toggle-nav js-drawer-open-left">
-          <span class="icon icon-hamburger" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Menu</span>
-        </button>
+
+<div itemscope itemtype="http://schema.org/Product">
+
+  
+  
+
+  
+  
+
+  <meta itemprop="url" content="https://temerityjewelry.com/products/treccia-hairpin">
+  <meta itemprop="image" content="//temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504">
+  <meta itemprop="name" content="Treccia Hairpin">
+
+  <div class="product grid grid--no-gutters" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+    <meta itemprop="priceCurrency" content="USD">
+    <link itemprop="availability" href="http://schema.org/InStock">
+
+    
+
+    
+
+    
+    
+
+    
+
+      
+
+      <div class="product__photo grid__item ">
+        <img class="product__photo--variant" data-default-src="//temerityjewelry.com/cdn/shop/products/IMG_1655_2048x2048.JPG?v=1571438504" src="//temerityjewelry.com/cdn/shop/products/IMG_1655_2048x2048.JPG?v=1571438504" alt="Treccia Hairpin">
       </div>
-      <div class="grid__item one-half text-right">
-        <a href="/search" class="site-header__link site-header__search js-drawer-open-top">
-          <span class="icon icon-search" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Search</span>
-        </a>
-        <a href="/cart" class="site-header__link site-header__cart cart-link js-drawer-open-right">
-          <span class="icon icon-cart" aria-hidden="true"></span>
-          <span class="icon__fallback-text">Cart</span>
-        </a>
-      </div>
-    </div>
-  </div>
-  
-    <div class="hero__logo-wrapper">
-        <h1 class="hero__logo" itemscope itemtype="http://schema.org/Organization">
-          <span class="hero__logo-centered">
+
+      
+
+      
+
+      
+
+      
+        
+          
+        
+      
+
+    
+
+    <div class="product__details grid__item">
+      <div class="grid grid--no-gutters product__details-content">
+        <div class="grid__item large-up--two-twelfths large-up--push-two-twelfths medium-up--three-twelfths medium-up--push-one-twelfth">
+          <h2 itemprop="name">Treccia Hairpin</h2>
+          <form action="/cart/add" method="post" id="AddToCartForm" enctype="multipart/form-data" class="product__form">
+
             
-                
-                  <img class="hero__logo-image" src="//temerityjewelry.com/cdn/shop/t/7/assets/logo.png?v=36058158048623395631466040198" alt="temerity jewelry" itemprop="logo">
-                
+            <select name="id" id="ProductSelect">
               
-          </span>
-        </h1>
-    </div>
-  
-  <div class="hero" id="Hero">
-    
-      
-      
-      
-        <div class="hero__slide">
-          <style>
-            @media screen and (max-width: 1024px) and (max-height: 683px) {
-              .hero__image--1 {
-                background-image: url('//temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_1024x1024.jpg?v=76930479936661624791466040330');
-              }
-            }
-            @media screen and (min-width: 1025px), screen and (min-height: 684px) {
-              .hero__image--1 {
-                background-image: url('//temerityjewelry.com/cdn/shop/t/7/assets/hero_slide_1_2048x2048.jpg?v=76930479936661624791466040330');
-              }
-            }
-          </style>
-          <div class="hero__image hero__image--1" data-image="1"></div>
-        </div>
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-      
-      
-      
-    
-  </div>
-  <div class="hero__header">
-    <div class="action-area">
-      <!-- snippets/action-bar.liquid -->
+                <option  selected="selected"   value="10516321793" data-sku="">Brass - $118.00 USD</option>
+              
+                <option   value="10516321857" data-sku="">Sterling Silver - $140.00 USD</option>
+              
+            </select>
 
-
-
-
-
-
-<div class="action-bar-wrapper  action-bar--hero">
-  <nav class="action-bar action-bar--has-menu" role="presentation">
-    <ul class="action-bar__menu--main action-bar__menu list--inline  action-bar--show" id="SiteNav" role="navigation">
-      
-      
-        
-        
-          
-          <li class="action-bar__menu-item action-bar--has-dropdown" data-child-list-handle="shop" >
-            <a href="/collections/shop-all" class="action-bar__link" aria-controls="Shop">shop</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="/pages/lookbook-1" class="action-bar__link">lookbooks</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="/pages/stockists" class="action-bar__link">stockists</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="/pages/press" class="action-bar__link">press</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="/pages/about" class="action-bar__link">about</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="/pages/contact" class="action-bar__link">contact</a>
-          </li>
-        
-      
-        
-        
-          <li class="action-bar__menu-item ">
-            <a href="http://temerityjewelry.tumblr.com" class="action-bar__link">journal</a>
-          </li>
-        
-      
-    </ul>
-
-    
-      
-      
-        <ul class="action-bar__menu--sub action-bar__menu list--inline  " id="Shop" data-child-list-handle="shop" role="navigation">
-          <li>
-            <button type="button" class="btn action-bar__back action-bar__link" aria-controls="SiteNav">
-              <span class="icon icon-arrow-left" aria-hidden="true"></span>
-              <span class="icon__fallback-text">Back to site navigation</span>
-            </button>
-          </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/hair-accessories" class="action-bar__link">hair accessories</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/rings" class="action-bar__link">rings</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/necklaces" class="action-bar__link">necklaces</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/earrings" class="action-bar__link">earrings</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/bracelets" class="action-bar__link">bracelets</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/new-arrivals" class="action-bar__link">new arrivals</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/collars-chokers" class="action-bar__link">collars  &amp; chokers</a>
-            </li>
-          
-            <li class="action-bar__menu-item ">
-              <a href="/collections/shop-all" class="action-bar__link">view all</a>
-            </li>
-          
-        </ul>
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-  </nav>
-</div>
-
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  <!-- /snippets/home-content.liquid -->
-
-
-
-
-
-
-
-
-  
-  <!-- snippets/featured-products.liquid -->
-
-  <hr class="hr--clear">
-
-
-<div class="featured-products">
-  
-  
-
-  
-  <h2 class="visually-hidden">new-arrivals</h2>
-
-  <div class="grid grid--no-gutters grid--uniform collection-grid">
-    
-    
-
-
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/lykos-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/lykos_earrings_lapis4_grande.jpg?v=1571438504" alt="Lykos Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Lykos Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
             
-              <span class="txt--emphasis">from</span> $95
+
             
-          
-        </p>
 
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/pleko-collar">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1654_grande.JPG?v=1571438504" alt="Pleko Collar">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Pleko Collar</p>
-        <p class="product-item__price-wrapper">
-          
-          
             
-              <span class="txt--emphasis">from</span> $165
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/circe-necklace">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/lapis_necklace_grande.jpg?v=1571438504" alt="Circe Necklace">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Circe Necklace</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $125
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/vincula-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1657_grande.JPG?v=1571438504" alt="Vincula Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Vincula Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $98
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/lyrata-hairpin">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Torquent_Hairpin_grande.jpg?v=1571438504" alt="Lyrata Hairpin">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Lyrata Hairpin</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/treccia-hairpin">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1655_grande.JPG?v=1571438504" alt="Treccia Hairpin">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Treccia Hairpin</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/spirea-hair-stick">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/barb_hair_stick_grande.jpg?v=1571438504" alt="Spirea Hair Stick">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Spirea Hair Stick</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $118
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/braid-inlay-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1288_grande.JPG?v=1571438504" alt="Braid Inlay Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Braid Inlay Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $96
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/bette-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Braid_Earrings_2_grande.JPG?v=1571438504" alt="Bette Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Bette Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $140
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/slice-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_bangle_grande.jpg?v=1571438504" alt="Slice Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Slice Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $82
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/staircase-hoops-medium">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braided_hoop_1_997383de-e662-400e-ad1f-b1947172e8a6_grande.JPG?v=1571438504" alt="Staircase Hoops - Medium">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Staircase Hoops - Medium</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $82
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/slice-bangle-set">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/coral_and_jet_bangles_2_grande.jpg?v=1571438504" alt="Slice Bangle Set">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Slice Bangle Set</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $150
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/staircase-hoops">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braided_hoop_1_grande.JPG?v=1571438504" alt="Staircase Hoops - Large">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Staircase Hoops - Large</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $92
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/rhiannon-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/rhiannon_ring_2_grande.JPG?v=1571438504" alt="Rhiannon Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Rhiannon Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $115
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/iona-bangle">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/iona_bangle_1_f9913f3c-bb96-40f5-b10c-5a6ef7ecf021_grande.JPG?v=1571438504" alt="Iona Bangle">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Iona Bangle</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
+            <p class="product__price">
+              <meta itemprop="price" content="118.0">
               
                 <span class="visually-hidden">Regular price</span>
+                <span class="product__price--reg js-price">
+                  $118
+                </span>
               
-              $94
+            </p>
+
             
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/artemis-collar">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braid_collar_1_aa7952cb-f24a-4a10-9566-a07350d06abf_grande.JPG?v=1571438504" alt="Artemis Collar">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Artemis Collar</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $195
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/thea-necklace">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/braid_necklace_grande.jpg?v=1571438504" alt="Thea Necklace">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Thea Necklace</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $94
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/rika-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Rika_Ring_1_grande.jpg?v=1571438504" alt="Rika Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Rika Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $88
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/edge-ring">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/edge_ring_1_grande.JPG?v=1571438504" alt="Edge Ring">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Edge Ring</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $88
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/plait-cuff">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/Plait_Cuff_1_grande.JPG?v=1571438504" alt="Plait Cuff">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Plait Cuff</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              
-                <span class="visually-hidden">Regular price</span>
-              
-              $90
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/braid-cuff">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/boxbraid2_grande.JPG?v=1571438504" alt="Box Braid Cuff">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Box Braid Cuff</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              
-                <span class="visually-hidden">Regular price</span>
-              
-              $95
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-      
-      <div class="product-item grid__item small--one-half medium--one-third large-up--one-quarter">
-  <a class="product-item__link " href="/products/fractus-earrings">
-    <img class="product-item__image" src="//temerityjewelry.com/cdn/shop/products/IMG_1647_grande_75e17698-62b3-4479-b9a2-c9c12aa80a2a_grande.jpeg?v=1571438504" alt="Fractus Earrings">
-
-    <span class="product-item__meta">
-      <span class="product-item__meta__inner">
-        
-        <p class="product-item__title">Fractus Earrings</p>
-        <p class="product-item__price-wrapper">
-          
-          
-            
-              <span class="txt--emphasis">from</span> $80
-            
-          
-        </p>
-
-        
-        
-      </span>
-    </span>
-
-    
-    
-  </a>
-</div>
-
-    
-  </div>
-</div>
-
-
-
-
-  
-  <!-- snippets/newsletter-form.liquid -->
-
-  <hr class="hr--clear">
-
-
-<div class="newsletter text-center">
-  <div class="wrapper">
-    
-    <h2>Be the first to know about new products and sales</h2>
-    
-      <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
-        
-        
-          <div class="input-group">
-            <input type="hidden" name="contact[tags]" value="newsletter">
-            <label for="Email" class="newsletter__label label--hidden">Email address</label>
-            <input type="email" value="" placeholder="Email address" name="contact[email]" id="Email" class="input-group__field newsletter__input" autocorrect="off" autocapitalize="off">
-            <span class="input-group__btn">
-              <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
-                <span class="newsletter__submit-text--large">Subscribe</span>
+              <button type="submit" name="add" id="AddToCart" class="btn add-to-cart">
+                <span class="add-to-cart__text">Add to cart</span>
               </button>
-            </span>
+            
+
+          </form>
+        </div>
+        <div class="grid__item large-up--one-half large-up--push-three-twelfths medium-up--six-twelfths medium-up--push-two-twelfths">
+          <div class="product-single__errors"></div>
+          <div class="product-single__description rte" itemprop="description">
+            <meta charset="utf-8"><span>the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it's the perfect adornment to your every day messy up-do.</span>
           </div>
-        
-      </form>
+          
+            <!-- /snippets/social-sharing.liquid -->
+
+
+<div class="social-sharing" data-permalink="https://temerityjewelry.com/products/treccia-hairpin">
+
+  
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=https://temerityjewelry.com/products/treccia-hairpin" class="share-facebook">
+      <span class="icon icon-facebook" aria-hidden="true"></span>
+      <span class="share-title">Share</span>
+    </a>
+  
+
+  
+    <a target="_blank" href="//twitter.com/share?text=Treccia%20Hairpin&amp;url=https://temerityjewelry.com/products/treccia-hairpin" class="share-twitter">
+      <span class="icon icon-twitter" aria-hidden="true"></span>
+      <span class="share-title">Tweet</span>
+    </a>
+  
+
+  
+
     
+      <a target="_blank" href="http://pinterest.com/pin/create/button/?url=https://temerityjewelry.com/products/treccia-hairpin&amp;media=//temerityjewelry.com/cdn/shop/products/IMG_1655_1024x1024.JPG?v=1571438504&amp;description=Treccia%20Hairpin" class="share-pinterest">
+        <span class="icon icon-pinterest" aria-hidden="true"></span>
+        <span class="share-title">Pin it</span>
+      </a>
+    
+
+    
+
+  
+
+  
+
+</div>
+
+          
+        </div>
+      </div>
+    </div>
+
+    
+    
+
+    
+    
+
+    <div class="product__back-button grid__item text-center">
+      <a href="/" class="btn return-link">
+        <span class="icon icon-arrow-left" aria-hidden="true"></span>
+        <span>Back</span>
+      </a>
+    </div>
   </div>
 </div>
 
-
-
-  <hr class="hr--clear">
-
-
-
+<script>
+  // Override default values of theme.strings for each template.
+  // Alternate product templates can change values of
+  // add to cart button, sold out, and unavailable states here.
+  window.productStrings = {
+    addToCart: "Add to cart",
+    soldOut: "Sold out"
+  }
+</script>
 
     </main>
 
@@ -1786,6 +980,17 @@ for (var attr in meta) {
   <script src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/themes_support/api.jquery-b0af070cfe3f5cf7c92f9e2a5da2665ee07ed2aad63bb408f8d6672f894a5996.js" type="text/javascript"></script>
   <script src="//temerityjewelry.com/cdn/shop/t/7/assets/theme.js?v=72525535480361859401466039853" type="text/javascript"></script>
 
+  
+    <script src="//temerityjewelry.com/cdn/shopifycloud/shopify/assets/themes_support/option_selection-86cdd286ddf3be7e25d68b9fc5965d7798a3ff6228ff79af67b3f4e41d6a34be.js" type="text/javascript"></script>
+    <script>
+      // Pre-loading product images, to avoid a lag when a variant is selected
+      // that has a variant image.
+      Shopify.Image.preload(["\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"], 'large');
+
+      // Set a global variable for theme.js to use on product single init
+      theme.productSingleObject = {"id":3596306177,"title":"Treccia Hairpin","handle":"treccia-hairpin","description":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan\u003ethe double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it's the perfect adornment to your every day messy up-do.\u003c\/span\u003e","published_at":"2015-11-27T01:11:00-05:00","created_at":"2015-11-27T01:14:37-05:00","vendor":"temerity jewelry","type":"","tags":[],"price":11800,"price_min":11800,"price_max":14000,"available":true,"price_varies":true,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":10516321793,"title":"Brass","option1":"Brass","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Treccia Hairpin - Brass","public_title":"Brass","options":["Brass"],"price":11800,"weight":0,"compare_at_price":null,"inventory_quantity":1,"inventory_management":null,"inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":10516321857,"title":"Sterling Silver","option1":"Sterling Silver","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Treccia Hairpin - Sterling Silver","public_title":"Sterling Silver","options":["Sterling Silver"],"price":14000,"weight":0,"compare_at_price":null,"inventory_quantity":1,"inventory_management":null,"inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"],"featured_image":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504","options":["Metal"],"media":[{"alt":null,"id":226453454979,"position":1,"preview_image":{"aspect_ratio":1.0,"height":2048,"width":2048,"src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504"},"aspect_ratio":1.0,"height":2048,"media_type":"image","src":"\/\/temerityjewelry.com\/cdn\/shop\/products\/IMG_1655.JPG?v=1571438504","width":2048}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cmeta charset=\"utf-8\"\u003e\u003cspan\u003ethe double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it's the perfect adornment to your every day messy up-do.\u003c\/span\u003e"};
+      theme.moneyFormat = "${{amount}}";
+    </script>
   
 
   

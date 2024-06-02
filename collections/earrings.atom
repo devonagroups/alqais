@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://temerityjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://temerityjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://temerityjewelry.com/collections/earrings.atom"/>
+  <title>temerity jewelry</title>
+  <updated>2015-11-27T13:44:00-05:00</updated>
+  <author>
+    <name>temerity jewelry</name>
+  </author>
+  <entry>
+    <id>https://temerityjewelry.com/products/3599562177</id>
+    <published>2015-11-27T13:44:00-05:00</published>
+    <updated>2015-11-27T13:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/fractus-earrings"/>
+    <title>Fractus Earrings</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1647_grande_75e17698-62b3-4479-b9a2-c9c12aa80a2a.jpeg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00 - 90.00
+            <a href="https://temerityjewelry.com/products/fractus-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>tiny coil stud earrings, measuring just under half an inch long.</p>
+<p>hand carved from wax and cast in brass or sterling silver, with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599562177</id>
+      <title>Brass</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599562177</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3594052289</id>
+    <published>2015-11-26T13:59:00-05:00</published>
+    <updated>2015-11-26T13:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lykos-earrings"/>
+    <title>Lykos Earrings</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lykos_earrings_lapis4.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00 - 120.00
+            <a href="https://temerityjewelry.com/products/lykos-earrings">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>tiny textured, pointed studs with a central bezel of handcrushed stone inlay.  studs measure just under half an inch long.  </p>
+<p>available in brass or sterling silver.  for custom stone options please message us at orders@temerityjewelry.com.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Amethyst</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Tiger&apos;s Eye</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Amethyst</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Tiger&apos;s Eye</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/1994184897</id>
+    <published>2015-09-03T18:13:00-04:00</published>
+    <updated>2015-09-03T18:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/bette-earrings"/>
+    <title>Bette Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Braid_Earrings_2.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            140.00 - 160.00
+            <a href="https://temerityjewelry.com/products/bette-earrings">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>a pair of petite braided earrings, each adorned with a center bezel set stone.  each braid measures 1.5" long.</p>
+<p>braided by hand and cast in brass or sterling silver- choose from green aventurine, turquoise, sodalite, rose quartz, carnelian, or hematite.  <span>for custom stones, please email us at orders@temerityjewelry.com</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Green Aventurine</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Rose Quartz</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Sodalite</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Carnelian</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Hematite</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Green Aventurine</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Rose Quartz</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Sodalite</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Carnelian</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Hematite</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/425485897</id>
+    <published>2015-08-27T21:37:00-04:00</published>
+    <updated>2015-08-27T21:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/staircase-hoops-medium"/>
+    <title>Staircase Hoops - Medium</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braided_hoop_1_997383de-e662-400e-ad1f-b1947172e8a6.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            82.00 - 125.00
+            <a href="https://temerityjewelry.com/products/staircase-hoops-medium">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the ultimate throwback- open hoop earrings with a finely detailed braided staircase design.  braided by hand and cast in brass or sterling silver, both with sterling silver posts and backings.  also available in 14k gold plate.</p>
+<p>hoops measure 1.5" in diameter.  see our large hoops <a href="http://temerityjewelry.com/products/staircase-hoops">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>Brass</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/318742633</id>
+    <published>2014-05-24T10:54:00-04:00</published>
+    <updated>2014-05-24T10:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/staircase-hoops"/>
+    <title>Staircase Hoops - Large</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braided_hoop_1.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            92.00 - 138.00
+            <a href="https://temerityjewelry.com/products/staircase-hoops">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the ultimate throwback- open hoop earrings with a finely detailed braided staircase design.  braided by hand and cast in brass or sterling silver, both with sterling silver posts and backings.  also available in 14k gold plate.</p>
+<p>hoops measure 2.5" in diameter.  see our medium hoops <a href="http://temerityjewelry.com/products/staircase-hoops-medium">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>Brass</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256869733</id>
+    <published>2014-03-06T00:14:00-05:00</published>
+    <updated>2014-03-06T00:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/slice-inlay-earrings"/>
+    <title>Slice Inlay Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/coral_slice_earrings_af49db35-3cf9-4c74-b28b-84f8dbbbca33.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            110.00 - 146.00
+            <a href="https://temerityjewelry.com/products/slice-inlay-earrings">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1" long delicately curved and textured earrings with crushed stone inlay and sterling silver posts and backings.</p>
+<p>for custom stone options, please email us at orders@temerityjewelry.com for assistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Tiger&apos;s Eye</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Tiger&apos;s Eye</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256869733</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256865629</id>
+    <published>2014-03-05T23:11:15-05:00</published>
+    <updated>2014-03-05T23:11:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lemniscate-earrings"/>
+    <title>Lemniscate Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Lemniscate_Earrings_2.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            115.00 - 156.00
+            <a href="https://temerityjewelry.com/products/lemniscate-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1.5" long entwined bone earrings with feathered texture. available in brass or sterling silver, on sterling silver ear wires.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256865629</id>
+      <title>Brass</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256865629</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256861901</id>
+    <published>2014-03-05T23:07:55-05:00</published>
+    <updated>2014-03-05T23:07:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/featherbone-stud-earrings"/>
+    <title>Featherbone Stud Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Chicken_Loop_Ears.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            87.00 - 118.00
+            <a href="https://temerityjewelry.com/products/featherbone-stud-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description clearfix">
+<div>
+<p>delicate half inch oblong cast and curved bone stud earring with feathered texture.</p>
+<p>available in brass or sterling silver.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256861901</id>
+      <title>Brass</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256861901</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256863593</id>
+    <published>2014-03-05T21:39:49-05:00</published>
+    <updated>2014-03-05T21:39:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/featherbone-hoop-earrings"/>
+    <title>Featherbone Hoop Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Featherbone_Earrings_Gold.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            118.00 - 150.00
+            <a href="https://temerityjewelry.com/products/featherbone-hoop-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>half inch curved mini hoop with feathered textured and graduated loop.  will fit standard ear piercing and comes with optional silicone backings.</p>
+<p>available in 14k gold plate or sterling silver- due to the fit of this style, it is not available in brass.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256863593</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256863593</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256867689</id>
+    <published>2014-03-05T21:03:20-05:00</published>
+    <updated>2014-03-05T21:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/vesper-earrings"/>
+    <title>Vesper Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Petal_Fringe_Earrings.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            156.00 - 189.00
+            <a href="https://temerityjewelry.com/products/vesper-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the occurrence of astral bell signifies the desire of an ethereal being to make contact across the veil; to manifest its presence across the boundaries of the physical world. the vesper is the evening star- in the catholic tradition, the vesper bell is rung at nightfall as a call to evening prayer.</p>
+<p>the vesper earrings, on sterling silver ear wires, have an approximate 3" drop with vintage chain fringe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256867689</id>
+      <title>Brass</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256867689</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256859825</id>
+    <published>2014-03-05T19:42:03-05:00</published>
+    <updated>2014-03-05T19:42:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/ember-stud-earrings"/>
+    <title>Ember Stud Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Vortex_Studs.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            92.00 - 126.00
+            <a href="https://temerityjewelry.com/products/ember-stud-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the ember studs are hand carved from wax and cast in brass or sterling silver, measuring approximately half an inch, with sterling silver posts and backings.  </p>
+<p>rife with the symbolism of the well, the shape itself embodies purity, discovery, depth of emotion, and destinies yet to be realized.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256859825</id>
+      <title>Brass</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256859825</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256848849</id>
+    <published>2014-03-05T18:45:03-05:00</published>
+    <updated>2014-03-05T18:45:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/calista-ear-cuff"/>
+    <title>Calista Ear Cuff</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Vortex_Ear_Cuff_1.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            120.00 - 172.00
+            <a href="https://temerityjewelry.com/products/calista-ear-cuff">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>highlighting the space between darkness and light, the calista ear cuff is 3" long and curved, with a back loop to hug securely to the ear.</p>
+<p>shown worn with the alida earrings, available for the right or left ear.  hand carved from wax and cast in brass or sterling silver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256848849</id>
+      <title>Brass / Right Ear</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256848849</id>
+      <title>Sterling Silver / Right Ear</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256848849</id>
+      <title>Brass / Left Ear</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256848849</id>
+      <title>Sterling Silver / Left Ear</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256852181</id>
+    <published>2014-03-05T18:42:34-05:00</published>
+    <updated>2014-03-05T18:42:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/alida-earrings"/>
+    <title>Alida Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_5115.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            128.00 - 184.00
+            <a href="https://temerityjewelry.com/products/alida-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>ember stud earring with a dangling beak pendant.  </span>1.5" drop with sterling silver posts and backings.  </p>
+<p><span>available in brass or sterling silver.  </span></p>
+<p>shown worn with the calista ear cuff.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256852181</id>
+      <title>Brass</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256852181</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">184.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/184565681</id>
+    <published>2013-11-27T20:20:52-05:00</published>
+    <updated>2013-11-27T20:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/sia-ear-cuff"/>
+    <title>Sia Ear Cuff</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sqSia_Ear_Cuff_1.jpg?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            68.00 - 84.00
+            <a href="https://temerityjewelry.com/products/sia-ear-cuff">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.2;">triple stack ear cuff, </span><span style="line-height: 1.2;">carved from wax and cast in brass or sterling silver. </span></p>
+<p><span style="line-height: 1.2;">opening measures 1/4".  hooks onto the antihelix for a snug, comfortable fit.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184565681</id>
+      <title>brass</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184565681</id>
+      <title>sterling silver</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/164605647</id>
+    <published>2013-10-13T18:29:58-04:00</published>
+    <updated>2013-10-13T18:29:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/earring"/>
+    <title>Unauthorized Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_3796.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            86.00 - 112.00
+            <a href="https://temerityjewelry.com/products/earring">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>triple spear rough hewn textured earrings. cast in brass or sterling silver, treated to enhance pits &amp; crags. </p>
+<p>earrings measure approximately 2" long, with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164605647</id>
+      <title>brass</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164605647</id>
+      <title>silver</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/164613401</id>
+    <published>2013-10-13T16:05:56-04:00</published>
+    <updated>2013-10-13T16:05:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/nile-earrings"/>
+    <title>Nile Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Nile_Earrings_2_10d6ff8e-177a-4274-a921-782fdce82d1e.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            92.00 - 115.00
+            <a href="https://temerityjewelry.com/products/nile-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>textured bar earrings with central ridge, carved from wax and cast in brass or sterling silver.</p>
+<p>earring drop measures 1" long with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164613401</id>
+      <title>brass</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164613401</id>
+      <title>silver</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/162295521</id>
+    <published>2013-10-04T18:54:15-04:00</published>
+    <updated>2013-10-04T18:54:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/issa-earrings"/>
+    <title>Issa Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Issa_Earrings_Carn_1.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>in egyptian mythology, the nightly blooming of the lotus flower symbolized the triumph of light and life over death and darkness.</p>
+<p>the lotus inspired issa earring <span class="Apple-style-span">grasps a central bezel set stone and</span> measures 1.5" with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162295521</id>
+      <title>carnelian</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162295521</id>
+      <title>hematite</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162295521</id>
+      <title>white moonstone</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/162295649</id>
+    <published>2013-10-04T18:45:37-04:00</published>
+    <updated>2013-10-04T18:45:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/kore-ear-cuff"/>
+    <title>Kore Ear Cuff</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Kore_Ear_Cuff.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>lotus ear cuff with curved spike terminations.</p>
+<p>can be worn on either ear, slightly adjustable. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162295649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/164626495</id>
+    <published>2013-10-04T18:32:18-04:00</published>
+    <updated>2013-10-04T18:32:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/horus-earrings"/>
+    <title>Horus Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Horus_Earrings_Carn_1.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>bezel set carnelian or hematite grasped by a winged solar disk with <span>curved spike terminations</span>.</p>
+<p>earrings measure .5", with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164626495</id>
+      <title>carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164626495</id>
+      <title>hematite</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123431584</id>
+    <published>2013-02-26T19:43:50-05:00</published>
+    <updated>2013-02-26T19:43:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/luna-earrings"/>
+    <title>Luna Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/luna.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            70.00 - 88.00
+            <a href="https://temerityjewelry.com/products/luna-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a mismatched pair of one full moon and one crescent moon.  </p>
+<p>hand-forged from brass or sterling silver, measuring approximately 1/4" each with sterling silver posts and backings. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123431584</id>
+      <title>Brass</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123431584</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123430520</id>
+    <published>2013-02-26T19:22:00-05:00</published>
+    <updated>2013-02-26T19:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/baton-earrings"/>
+    <title>Baton Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/baton.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            74.00 - 94.00
+            <a href="https://temerityjewelry.com/products/baton-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>hand forged and textured bar earrings, simple and perfect for every day wear.</p>
+<p>available in brass or sterling silver.  each baton earring measures 1/2" tall with sterling silver posts &amp; backings.  <br>  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123430520</id>
+      <title>Brass</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123430520</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123430324</id>
+    <published>2013-02-26T19:16:00-05:00</published>
+    <updated>2013-02-26T19:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/arc-earrings"/>
+    <title>Arc Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/arc_4a045f15-f07b-46f0-a53a-9c145b3dbd65.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            74.00 - 94.00
+            <a href="https://temerityjewelry.com/products/arc-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>hand forged and textured arc earring, simple and perfect for every day wear.</p>
+<p>available in brass or sterling silver.  each arc earring measures 1/2" tall with sterling silver posts &amp; backings.<br>  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123430324</id>
+      <title>Brass</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123430324</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

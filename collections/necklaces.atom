@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://temerityjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://temerityjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://temerityjewelry.com/collections/necklaces.atom"/>
+  <title>temerity jewelry</title>
+  <updated>2015-12-16T16:30:28-05:00</updated>
+  <author>
+    <name>temerity jewelry</name>
+  </author>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596405121</id>
+    <published>2015-12-16T16:30:28-05:00</published>
+    <updated>2015-12-16T16:30:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/circe-necklace"/>
+    <title>Circe Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lapis_necklace.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            125.00 - 135.00
+            <a href="https://temerityjewelry.com/products/circe-necklace">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>three pointed pendants with central bezels containing hand-crushed stone inlay, curved and held by a 16" sterling silver chain.</p>
+<p>available in combinations of stone inlay- please specify in notes when ordering.  choose from lapis, turquoise, jet, coral, malachite, kyanite, amethyst, tiger's eye.  for custom stone inquiries, contact orders@temerityjewelry.com</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Amethyst</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Tiger&apos;s Eye</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Amethyst</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Tiger&apos;s Eye</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321457905</id>
+    <published>2014-05-29T10:58:55-04:00</published>
+    <updated>2014-05-29T10:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/thea-necklace"/>
+    <title>Thea Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braid_necklace.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            94.00 - 108.00
+            <a href="https://temerityjewelry.com/products/thea-necklace">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a petite double braid necklace adorned with a center bezel set stone, on a delicate 16" sterling silver chain to lay across the collarbones.  </p>
+<p>braided by hand and cast it in brass or sterling silver- choose from green aventurine (pictured), sodalite, turquoise, carnelian, or hematite.  <span>for custom stones, please email us at orders@temerityjewelry.com</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Green Aventurine (pictured)</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Green Aventurine (pictured)</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Sodalite</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Sodalite</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Carnelian</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Carnelian</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Hematite</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Hematite</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321436205</id>
+    <published>2014-05-29T10:22:27-04:00</published>
+    <updated>2014-05-29T10:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/mehen-collar"/>
+    <title>Mehen Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/mehen_collar_square.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">twin textured pendants, connected by a hand-forged diamond shape, mirror each other in this stunning organic collar.  lays against the clavicle, with a 10" sterling silver chain.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321436205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256795197</id>
+    <published>2014-04-11T16:20:58-04:00</published>
+    <updated>2014-04-11T16:20:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/linara-necklace"/>
+    <title>Linara Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Vortex_V_Neck.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>inspired by the symbolism of the well, the linara necklace is representative of purity, depth of emotion, and destinies yet to be realized.</p>
+a slightly curved pendant, hand carved from wax and cast in brass, measuring 2.5 inches long with a 28" sterling silver chain. slips over head.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256795197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/121635734</id>
+    <published>2014-03-05T23:28:28-05:00</published>
+    <updated>2014-03-05T23:28:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lanza-necklace"/>
+    <title>Lanza Necklace - Onyx</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lanza_onyx_1_96b7fcd8-7d24-483a-850a-a709680c638d.JPG?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a spear pendant hand carved from wax and cast in brass, set with onyx at its center.</p>
+<p>pendant measures 3" long on a 26" oxidized sterling silver chain with center clasp.  due to the nature of our gemstones, slight color variation may occur.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/121635734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256793093</id>
+    <published>2014-03-05T21:14:58-05:00</published>
+    <updated>2014-03-05T21:14:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/roisin-bib-necklace"/>
+    <title>Roisin Bib Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Triple_Vortex_3.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>rife with the symbolism of the well, the roisin bib necklace is symbolic of purity, depth of emotion, and destinies yet to be realized.</span></p>
+<p>three sections of carved and cast well pendants, measuring an approximate 5" drop and connected by hand forged brass links on a 10" sterling silver double looped chain.  lays beautifully to cradle and dip below the clavicle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256793093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256786909</id>
+    <published>2014-03-05T21:00:00-05:00</published>
+    <updated>2014-03-05T21:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/vesper-necklace"/>
+    <title>Vesper Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Vesper_Tassel_Necklace_3.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the occurrence of astral bell signifies the desire of an ethereal being to make contact across the veil; to manifest its presence across the boundaries of the physical world. the vesper is the evening star- in the catholic tradition, the vesper bell is rung at nightfall as a call to evening prayer.</p>
+<p>hand carved and textured bell pendant on an 18" sterling silver chain, with vintage chain fringe measuring approximately 8".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256786909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256781457</id>
+    <published>2014-03-05T19:33:19-05:00</published>
+    <updated>2014-03-05T19:33:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/carillon-necklace"/>
+    <title>Carillon Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Carillon_Necklace.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            156.00 - 170.00
+            <a href="https://temerityjewelry.com/products/carillon-necklace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>the occurrence of astral bell signifies the desire of an ethereal being to make contact across the veil; to manifest its presence across the boundaries of the physical world. the vesper is the evening star- in the catholic tradition, the vesper bell is rung at nightfall as a call to evening prayer.</span></p>
+<p>hand carved and textured double bell pendants with adjoining vintage chain. available in brass or sterling silver with matching tonal chain fringe, on an 18" sterling silver chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256781457</id>
+      <title>Brass</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256781457</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/184545633</id>
+    <published>2013-11-27T19:38:00-05:00</published>
+    <updated>2013-11-27T19:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/donia-necklace-1"/>
+    <title>Donia Necklace - Center Stone</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Donia_Necklace_Sodalite_2.jpg?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>in egyptian mythology, the nightly blooming of the lotus flower symbolized the triumph of light and life over death and darkness.</span></p>
+<p>lotus inspired pendant with a center bezel set stone on a 22" sterling silver chain.  choose from sodalite, carnelian, hematite, white moonstone, or aventurine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184545633</id>
+      <title>sodalite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184545633</id>
+      <title>carnelian</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184545633</id>
+      <title>hematite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184545633</id>
+      <title>white moonstone</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184545633</id>
+      <title>aventurine</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/184544125</id>
+    <published>2013-11-27T19:24:09-05:00</published>
+    <updated>2013-11-27T19:24:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/raya-bib-necklace"/>
+    <title>Raya Bib Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Raya_Bib_Necklace.jpg?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            158.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>in egyptian mythology, the nightly blooming of the lotus flower symbolized the triumph of light and life over death and darkness.</span></p>
+<p><span>hand forged triple lotus pendant measuring 4" wide on a 16" sterling silver chain.</span></p>
+<div class="page" title="Page 3">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184544125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/184540393</id>
+    <published>2013-11-27T19:15:54-05:00</published>
+    <updated>2013-11-27T19:15:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/donia-necklace"/>
+    <title>Donia Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Donia_Necklace_2.jpg?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>in egyptian mythology, the nightly blooming of the lotus flower symbolized the triumph of light and life over death and darkness.</span></p>
+<p><span>lotus inspired pendant, measures 1.5" long on a 22" sterling silver chain.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/184540393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/164332529</id>
+    <published>2013-10-11T19:47:58-04:00</published>
+    <updated>2013-10-11T19:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lanza-necklace-malachite"/>
+    <title>Lanza Necklace - Malachite</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lanza_malachite_1.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            107.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a spear pendant hand carved from wax and cast in sterling silver, set with malachite at its center.</p>
+<p>pendant measures 3" long on a 26" oxidized sterling silver chain with center clasp.  due to the nature of our gemstones, slight color variation may occur.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164332529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">107.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/162258481</id>
+    <published>2013-10-03T18:25:30-04:00</published>
+    <updated>2013-10-03T18:25:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/pendulum-necklace"/>
+    <title>Pendulum Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/pendulum.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>cast brass pendulum with an oxidized finish.</p>
+<p>pendant measures 1.5" on a 26" sterling silver chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162258481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/162253969</id>
+    <published>2013-10-03T18:07:56-04:00</published>
+    <updated>2013-10-03T18:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/gilded-wreath-necklace"/>
+    <title>Gilded Wreath Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/gilded_wreath.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wreath pendant with an oxidized serpentine coil, hand-carved from wax and cast in brass</p>
+<p>pendant measures 2" long on a 20" sterling silver chain with a center clasp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/162253969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123435062</id>
+    <published>2013-02-26T21:05:13-05:00</published>
+    <updated>2013-02-26T21:05:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/victory-necklace"/>
+    <title>Victory Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/vic_2.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            96.00 - 172.00
+            <a href="https://temerityjewelry.com/products/victory-necklace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>open geometric pendant, hand carved from wax and cast in brass or silver.</p>
+<p>pendant drop measures 2" on a 30" oxidized sterling silver chain.  slips over head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123435062</id>
+      <title>Brass</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123435062</id>
+      <title>Silver</title>
+      <s:price currency="USD">172.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123244590</id>
+    <published>2013-02-24T23:02:00-05:00</published>
+    <updated>2013-02-24T23:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/uru-necklace-antique-mirror"/>
+    <title>Uru Necklace - Antique Mirror</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/uru_mirror_1.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>teardrop shaped pendant with creeping vine motif, hand carved from wax and cast in brass with an antiqued finish.  set with antique mirror glass, hand-cut exclusively for temerity jewelry by mosaic artist liz martone.</p><p>pendant drop measures 2" on a 30" oxidized sterling silver chain.  slips over head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123244590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123133874</id>
+    <published>2013-02-24T12:30:34-05:00</published>
+    <updated>2013-02-24T12:30:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/uru-necklace"/>
+    <title>Uru Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/uru_open_1.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>open teardrop shaped pendant with&nbsp;<span>creeping vine motif, hand carved from wax and cast in brass with an antiqued finish.</span></p>
+<p>pendant drop measures 2" on a 30" oxidized sterling silver chain. &nbsp;slips over head.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123133874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/121658464</id>
+    <published>2013-02-15T13:06:00-05:00</published>
+    <updated>2013-02-15T13:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/bole-necklace"/>
+    <title>Bole Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/boles.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            106.00 - 112.00
+            <a href="https://temerityjewelry.com/products/bole-necklace">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>brass &amp; high gloss black or sterling silver drops on a 30" oxidized sterling silver chain.  drops range from half an inch to one inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/121658464</id>
+      <title>Brass &amp; Black</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/121658464</id>
+      <title>Brass &amp; Sterling Silver</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/123129166</id>
+    <published>2013-02-15T11:01:46-05:00</published>
+    <updated>2013-02-15T11:01:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/copy-of-lanza-necklace-lapis"/>
+    <title>Lanza Necklace - Lapis</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lanza_lapis22.jpg?v=1571438501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a spear pendant hand carved from wax and cast in brass, set with lapis lazuli at its center.</p>
+<p>pendant measures 3" long on a 26" oxidized sterling silver chain with center clasp.  due to the nature of our gemstones, slight color variation may occur.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/123129166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

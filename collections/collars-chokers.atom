@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://temerityjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://temerityjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://temerityjewelry.com/collections/collars-chokers.atom"/>
+  <title>temerity jewelry</title>
+  <updated>2015-11-27T01:34:00-05:00</updated>
+  <author>
+    <name>temerity jewelry</name>
+  </author>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596338625</id>
+    <published>2015-11-27T01:34:00-05:00</published>
+    <updated>2015-11-27T01:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/pleko-collar"/>
+    <title>Pleko Collar</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1654.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00 - 235.00
+            <a href="https://temerityjewelry.com/products/pleko-collar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>braided torc with gently pointed ends, the pleko collar is braided by hand and cast in brass or sterling silver.  can be worn with the opening at the front, enhancing the clavicle and sitting beautifully around the neck.  </p>
+<p>slightly curved and adjustable.  measures 12 inches around with a 3 inch opening.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596338625</id>
+      <title>Brass</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596338625</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/326725421</id>
+    <published>2014-06-06T09:03:28-04:00</published>
+    <updated>2014-06-06T09:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/artemis-collar"/>
+    <title>Artemis Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braid_collar_1_aa7952cb-f24a-4a10-9566-a07350d06abf.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            195.00 - 280.00
+            <a href="https://temerityjewelry.com/products/artemis-collar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>the artemis collar is cast from a hand woven and knotted fishtail braid with a large central knot. a high polish finish draws out the detail, texture and variations of the original material; its shape recalls the bow of artemis, greek goddess of the hunt.  tough and delicate in equal measure, curving beautifully against the neck.</span></p>
+<p>finished with a 6" braided waxed cotton cord, mirroring the collar's design, and a hand forged hook clasp. <span style="line-height: 1.5;">opening measures 5" across. available in brass or sterling silver. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/326725421</id>
+      <title>Brass</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/326725421</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321436205</id>
+    <published>2014-05-29T10:22:27-04:00</published>
+    <updated>2014-05-29T10:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/mehen-collar"/>
+    <title>Mehen Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/mehen_collar_square.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">twin textured pendants, connected by a hand-forged diamond shape, mirror each other in this stunning organic collar.  lays against the clavicle, with a 10" sterling silver chain.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321436205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256769641</id>
+    <published>2014-03-06T00:08:22-05:00</published>
+    <updated>2014-03-06T00:08:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/rostrum-collar"/>
+    <title>Rostrum Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Rostrum_Collar_1.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            175.00 - 285.00
+            <a href="https://temerityjewelry.com/products/rostrum-collar">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a slightly adjustable 12" collar with subtle spear terminations, culminating in a hand carved 2" textured asymmetric point.</p>
+<p><span>available in 14k gold plate, sterling silver or brass.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256769641</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256769641</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256769641</id>
+      <title>Brass</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/256777661</id>
+    <published>2014-03-05T21:30:41-05:00</published>
+    <updated>2014-03-05T21:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/halcyon-collar"/>
+    <title>Halcyon Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Petal_Collar_1.JPG?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            175.00 - 285.00
+            <a href="https://temerityjewelry.com/products/halcyon-collar">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the occurrence of astral bell signifies the desire of an ethereal being to make contact across the veil; to manifest its presence across the boundaries of the physical world.</p>
+<p>the halcyon collar measures 14" around with double bell terminations, and is available in 14k gold plate, sterling silver, and brass. can be worn with bells at front or back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256777661</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256777661</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/256777661</id>
+      <title>Brass</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/181070865</id>
+    <published>2013-11-27T21:49:38-05:00</published>
+    <updated>2013-11-27T21:49:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/zahrah-collar"/>
+    <title>Zahrah Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/collar.jpg?v=1571438503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the zahrah collar is <span>comprised of nine hand-forged lotus pendants, symbolizing the triumph of life &amp; light. an absolutely stunning statement piece.</span></p>
+<p>slightly adjustable, lays against collar bones.</p>
+<p>*this piece is made to order. please allow one week additional shipping time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/181070865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/164620367</id>
+    <published>2013-10-13T17:02:00-04:00</published>
+    <updated>2013-10-13T17:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/maat-collar"/>
+    <title>Maat Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/sq_Maat_Collar_3_89810a5b-c12e-4239-bcd9-75e5f5a2963f.jpg?v=1571438502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            148.00 - 178.00
+            <a href="https://temerityjewelry.com/products/maat-collar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>collar neckpiece with entwined serpentine twists, gently curved and terminating in open loops.</p>
+<p>4.5" diameter, slightly adjustable. slips on neck.  available in brass or sterling silver.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164620367</id>
+      <title>Brass</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/164620367</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">178.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

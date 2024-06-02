@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://temerityjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://temerityjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://temerityjewelry.com/collections/hair-accessories.atom"/>
+  <title>temerity jewelry</title>
+  <updated>2015-11-27T01:23:00-05:00</updated>
+  <author>
+    <name>temerity jewelry</name>
+  </author>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596321601</id>
+    <published>2015-11-27T01:23:00-05:00</published>
+    <updated>2015-11-27T01:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/spirea-hair-stick"/>
+    <title>Spirea Hair Stick</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/barb_hair_stick.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/spirea-hair-stick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>twisted hair stick with a coiled barb, the spirea hair stick measures just under five inches long.  hand carved</span><span><span> in wax and cast in brass or sterling silver, its </span></span><meta charset="utf-8"><span>slightly curved shape will hold even the thickest hair securely.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596321601</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596321601</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596306177</id>
+    <published>2015-11-27T01:11:00-05:00</published>
+    <updated>2015-11-27T01:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/treccia-hairpin"/>
+    <title>Treccia Hairpin</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1655.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/treccia-hairpin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it's the perfect adornment to your every day messy up-do.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596306177</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596306177</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3589372801</id>
+    <published>2015-11-27T00:59:00-05:00</published>
+    <updated>2015-11-27T00:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lyrata-hairpin"/>
+    <title>Lyrata Hairpin</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Torquent_Hairpin.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/lyrata-hairpin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">the double pronged lyrata hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  twisted by hand<span> in wax and cast in brass or sterling silver, it's the perfect adornment to </span><span>your every day</span><span> messy up-do.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3589372801</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3589372801</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

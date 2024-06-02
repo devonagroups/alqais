@@ -1,0 +1,2591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://temerityjewelry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://temerityjewelry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://temerityjewelry.com/collections/new-arrivals.atom"/>
+  <title>temerity jewelry</title>
+  <updated>2015-12-16T16:30:28-05:00</updated>
+  <author>
+    <name>temerity jewelry</name>
+  </author>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596405121</id>
+    <published>2015-12-16T16:30:28-05:00</published>
+    <updated>2015-12-16T16:30:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/circe-necklace"/>
+    <title>Circe Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lapis_necklace.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            125.00 - 135.00
+            <a href="https://temerityjewelry.com/products/circe-necklace">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>three pointed pendants with central bezels containing hand-crushed stone inlay, curved and held by a 16" sterling silver chain.</p>
+<p>available in combinations of stone inlay- please specify in notes when ordering.  choose from lapis, turquoise, jet, coral, malachite, kyanite, amethyst, tiger's eye.  for custom stone inquiries, contact orders@temerityjewelry.com</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Amethyst</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Tiger&apos;s Eye</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Amethyst</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Tiger&apos;s Eye</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596405121</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3599562177</id>
+    <published>2015-11-27T13:44:00-05:00</published>
+    <updated>2015-11-27T13:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/fractus-earrings"/>
+    <title>Fractus Earrings</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1647_grande_75e17698-62b3-4479-b9a2-c9c12aa80a2a.jpeg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00 - 90.00
+            <a href="https://temerityjewelry.com/products/fractus-earrings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>tiny coil stud earrings, measuring just under half an inch long.</p>
+<p>hand carved from wax and cast in brass or sterling silver, with sterling silver posts and backings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599562177</id>
+      <title>Brass</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599562177</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3599531009</id>
+    <published>2015-11-27T13:35:00-05:00</published>
+    <updated>2015-11-27T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/vincula-ring"/>
+    <title>Vincula Ring</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1657.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00 - 122.00
+            <a href="https://temerityjewelry.com/products/vincula-ring">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>triple banded ring adorned with a triple vertical binding.  hand carved in wax and cast in brass or sterling silver.</p>
+<p>*also available in men's sizes.  please contact us at orders@temerityjewelry.com for custom sizing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 5.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 6</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 6.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 7</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 7.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 8</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 8.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 9</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 9.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 10</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Brass / 10.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 5.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 6</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 6.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 7</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 7.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 8</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 8.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 9</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 9.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 10</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3599531009</id>
+      <title>Sterling Silver / 10.5</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596338625</id>
+    <published>2015-11-27T01:34:00-05:00</published>
+    <updated>2015-11-27T01:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/pleko-collar"/>
+    <title>Pleko Collar</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1654.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.00 - 235.00
+            <a href="https://temerityjewelry.com/products/pleko-collar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>braided torc with gently pointed ends, the pleko collar is braided by hand and cast in brass or sterling silver.  can be worn with the opening at the front, enhancing the clavicle and sitting beautifully around the neck.  </p>
+<p>slightly curved and adjustable.  measures 12 inches around with a 3 inch opening.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596338625</id>
+      <title>Brass</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596338625</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596321601</id>
+    <published>2015-11-27T01:23:00-05:00</published>
+    <updated>2015-11-27T01:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/spirea-hair-stick"/>
+    <title>Spirea Hair Stick</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/barb_hair_stick.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/spirea-hair-stick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>twisted hair stick with a coiled barb, the spirea hair stick measures just under five inches long.  hand carved</span><span><span> in wax and cast in brass or sterling silver, its </span></span><meta charset="utf-8"><span>slightly curved shape will hold even the thickest hair securely.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596321601</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596321601</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3596306177</id>
+    <published>2015-11-27T01:11:00-05:00</published>
+    <updated>2015-11-27T01:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/treccia-hairpin"/>
+    <title>Treccia Hairpin</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1655.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/treccia-hairpin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>the double pronged treccia hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  braided and carved in wax and cast in brass or sterling silver, it's the perfect adornment to your every day messy up-do.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596306177</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3596306177</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3589372801</id>
+    <published>2015-11-27T00:59:00-05:00</published>
+    <updated>2015-11-27T00:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lyrata-hairpin"/>
+    <title>Lyrata Hairpin</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Torquent_Hairpin.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            118.00 - 140.00
+            <a href="https://temerityjewelry.com/products/lyrata-hairpin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">the double pronged lyrata hairpin measures 4 inches long with a slightly curved shape to hold even the thickest hair securely.  twisted by hand<span> in wax and cast in brass or sterling silver, it's the perfect adornment to </span><span>your every day</span><span> messy up-do.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3589372801</id>
+      <title>Brass</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3589372801</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/3594052289</id>
+    <published>2015-11-26T13:59:00-05:00</published>
+    <updated>2015-11-26T13:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/lykos-earrings"/>
+    <title>Lykos Earrings</title>
+    <s:type></s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/lykos_earrings_lapis4.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00 - 120.00
+            <a href="https://temerityjewelry.com/products/lykos-earrings">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>tiny textured, pointed studs with a central bezel of handcrushed stone inlay.  studs measure just under half an inch long.  </p>
+<p>available in brass or sterling silver.  for custom stone options please message us at orders@temerityjewelry.com.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Amethyst</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Tiger&apos;s Eye</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Amethyst</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Tiger&apos;s Eye</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/3594052289</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/1994184897</id>
+    <published>2015-09-03T18:13:00-04:00</published>
+    <updated>2015-09-03T18:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/bette-earrings"/>
+    <title>Bette Earrings</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Braid_Earrings_2.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            140.00 - 160.00
+            <a href="https://temerityjewelry.com/products/bette-earrings">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>a pair of petite braided earrings, each adorned with a center bezel set stone.  each braid measures 1.5" long.</p>
+<p>braided by hand and cast in brass or sterling silver- choose from green aventurine, turquoise, sodalite, rose quartz, carnelian, or hematite.  <span>for custom stones, please email us at orders@temerityjewelry.com</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Green Aventurine</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Rose Quartz</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Sodalite</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Carnelian</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Brass / Hematite</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Green Aventurine</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Rose Quartz</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Sodalite</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Carnelian</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1994184897</id>
+      <title>Sterling Silver / Hematite</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/1995175297</id>
+    <published>2015-09-03T16:56:00-04:00</published>
+    <updated>2015-09-03T16:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/braid-inlay-bangle"/>
+    <title>Braid Inlay Bangle</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>temerity jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/IMG_1288.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>temerity jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            96.00 - 124.00
+            <a href="https://temerityjewelry.com/products/braid-inlay-bangle">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>an update to our best selling slice inlay bangle, the braid inlay bangle's delicate twists clutch a pod of inlaid stones.  braided by hand and cast in either brass or sterling silver, with inlay of turquoise, jet, lapis, coral, or malachite.</p>
+<meta charset="utf-8">
+<p><span>each bangle measures 8" around with a 2.5" diameter. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/1995175297</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/425485897</id>
+    <published>2015-08-27T21:37:00-04:00</published>
+    <updated>2015-08-27T21:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/staircase-hoops-medium"/>
+    <title>Staircase Hoops - Medium</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braided_hoop_1_997383de-e662-400e-ad1f-b1947172e8a6.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            82.00 - 125.00
+            <a href="https://temerityjewelry.com/products/staircase-hoops-medium">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the ultimate throwback- open hoop earrings with a finely detailed braided staircase design.  braided by hand and cast in brass or sterling silver, both with sterling silver posts and backings.  also available in 14k gold plate.</p>
+<p>hoops measure 1.5" in diameter.  see our large hoops <a href="http://temerityjewelry.com/products/staircase-hoops">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>Brass</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/425485897</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/326725421</id>
+    <published>2014-06-06T09:03:28-04:00</published>
+    <updated>2014-06-06T09:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/artemis-collar"/>
+    <title>Artemis Collar</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braid_collar_1_aa7952cb-f24a-4a10-9566-a07350d06abf.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            195.00 - 280.00
+            <a href="https://temerityjewelry.com/products/artemis-collar">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>the artemis collar is cast from a hand woven and knotted fishtail braid with a large central knot. a high polish finish draws out the detail, texture and variations of the original material; its shape recalls the bow of artemis, greek goddess of the hunt.  tough and delicate in equal measure, curving beautifully against the neck.</span></p>
+<p>finished with a 6" braided waxed cotton cord, mirroring the collar's design, and a hand forged hook clasp. <span style="line-height: 1.5;">opening measures 5" across. available in brass or sterling silver. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/326725421</id>
+      <title>Brass</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/326725421</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321939429</id>
+    <published>2014-05-29T19:40:00-04:00</published>
+    <updated>2014-05-29T19:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/rika-ring"/>
+    <title>Rika Ring</title>
+    <s:type>rings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Rika_Ring_1.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>rings<br>
+        <strong>Price: </strong>
+            88.00 - 98.00
+            <a href="https://temerityjewelry.com/products/rika-ring">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>we scaled down our iona bangle to make its little sister, the rika ring.  <span>inspired by the ephemeral nature of textiles &amp; weaving, </span><span>the rika ring is cast from a hand woven rope fishtail braid with a large central knot.  a high polish finish draws out the texture and variations of the original material.</span></p>
+<p><span>for custom sizing, please email us at orders@temerityjewelry.com</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Brass / 6</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Sterling Silver / 6</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Brass / 6.5</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Sterling Silver / 6.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Brass / 7</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Sterling Silver / 7</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Brass / 7.5</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Sterling Silver / 7.5</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Brass / 8</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321939429</id>
+      <title>Sterling Silver / 8</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321472993</id>
+    <published>2014-05-29T11:18:29-04:00</published>
+    <updated>2014-05-29T11:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/plait-cuff"/>
+    <title>Plait Cuff</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/Plait_Cuff_1.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>inspired by the ephemeral nature of textiles &amp; weaving, </span>the plait cuff is cast from a combination of hand-braided and tied ropes. a high polish finish draws out the texture and variations of the original material.</p>
+<p>slightly oval, with a 1" opening and an approximate 7.5" diameter.</p>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321472993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321457905</id>
+    <published>2014-05-29T10:58:55-04:00</published>
+    <updated>2014-05-29T10:58:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/thea-necklace"/>
+    <title>Thea Necklace</title>
+    <s:type>necklace</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braid_necklace.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            94.00 - 108.00
+            <a href="https://temerityjewelry.com/products/thea-necklace">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>a petite double braid necklace adorned with a center bezel set stone, on a delicate 16" sterling silver chain to lay across the collarbones.  </p>
+<p>braided by hand and cast it in brass or sterling silver- choose from green aventurine (pictured), sodalite, turquoise, carnelian, or hematite.  <span>for custom stones, please email us at orders@temerityjewelry.com</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Green Aventurine (pictured)</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Green Aventurine (pictured)</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Sodalite</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Sodalite</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Carnelian</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Carnelian</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Brass / Hematite</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321457905</id>
+      <title>Sterling Silver / Hematite</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/321446149</id>
+    <published>2014-05-29T10:38:36-04:00</published>
+    <updated>2014-05-29T10:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/edge-ring"/>
+    <title>Edge Ring</title>
+    <s:type>rings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/edge_ring_1.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>rings<br>
+        <strong>Price: </strong>
+            88.00 - 109.00
+            <a href="https://temerityjewelry.com/products/edge-ring">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>sculpturally carved by hand in wax and cast in brass or sterling silver, the edge ring gradually curves from a flat, wide plane to a narrow knife edge.  we love this style worn on the index finger with the narrow edge out.  </p>
+<p><span>for custom sizing, please email us at orders@temerityjewelry.com</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Brass / 6</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Sterling Silver / 6</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Brass / 6.5</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Sterling Silver / 6.5</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Brass / 7</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Sterling Silver / 7</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Brass / 7.5</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Sterling Silver / 7.5</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Brass / 8</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/321446149</id>
+      <title>Sterling Silver / 8</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/318742633</id>
+    <published>2014-05-24T10:54:00-04:00</published>
+    <updated>2014-05-24T10:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/staircase-hoops"/>
+    <title>Staircase Hoops - Large</title>
+    <s:type>earrings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/braided_hoop_1.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>earrings<br>
+        <strong>Price: </strong>
+            92.00 - 138.00
+            <a href="https://temerityjewelry.com/products/staircase-hoops">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>the ultimate throwback- open hoop earrings with a finely detailed braided staircase design.  braided by hand and cast in brass or sterling silver, both with sterling silver posts and backings.  also available in 14k gold plate.</p>
+<p>hoops measure 2.5" in diameter.  see our medium hoops <a href="http://temerityjewelry.com/products/staircase-hoops-medium">here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>Brass</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>Sterling Silver</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/318742633</id>
+      <title>14k Gold Plate</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/314368617</id>
+    <published>2014-05-18T10:13:00-04:00</published>
+    <updated>2014-05-18T10:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/slice-bangle"/>
+    <title>Slice Bangle</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/coral_bangle.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            82.00 - 110.00
+            <a href="https://temerityjewelry.com/products/slice-bangle">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>we've taken our bestselling slice inlay rings to the next level with these delicately textured inlay bangles.  available in brass or sterling silver, we love the look, feel, and beautiful tinkling sound of them stacked up in a combination of jet, lapis, kyanite and malachite crushed stone inlay.   </p>
+<p>sold individually- also available in a set of two <a href="http://temerityjewelry.com/products/slice-bangle-set">here</a>. each bangle measures 8" around with a 2.5" diameter. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Jet</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Lapis</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Kyanite</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Malachite</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Kyanite</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Jet</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Malachite</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Lapis</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Coral</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Coral</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Brass / Turquoise</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314368617</id>
+      <title>Sterling Silver / Turquoise</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/314323265</id>
+    <published>2014-05-18T01:00:00-04:00</published>
+    <updated>2014-05-18T01:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/slice-bangle-set"/>
+    <title>Slice Bangle Set</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/coral_and_jet_bangles_2.jpg?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            150.00 - 205.00
+            <a href="https://temerityjewelry.com/products/slice-bangle-set">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>we've taken our bestselling slice inlay rings to the next level with these delicately textured inlay bangles.  available in brass or sterling silver, we love the look, feel, and beautiful tinkling sound of them stacked up in a combination of jet, coral, lapis, kyanite and malachite crushed stone inlay.   </p>
+<p>available in a set of two, or individually <a href="http://temerityjewelry.com/products/slice-bangle">here</a>. each bangle measures 8" around with a 2.5" diameter. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Lapis / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Jet / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Turquoise / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Kyanite / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Kyanite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Malachite / Turquoise</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Jet</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Coral</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Lapis / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Jet / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Turquoise / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Coral / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Kyanite / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Lapis</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Malachite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Kyanite</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Sterling Silver / Malachite / Turquoise</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Jet</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Coral</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Malachite</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/314323265</id>
+      <title>Brass / Coral / Lapis</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/308181769</id>
+    <published>2014-05-09T08:54:31-04:00</published>
+    <updated>2014-05-09T08:54:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/braid-cuff"/>
+    <title>Box Braid Cuff</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/boxbraid2.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>we've taken the traditional box braid bracelet and updated it in cuff form.  </p>
+<p>braided by hand from leather cord and cast in brass, the cuff has a high polished finish to show off the natural variations in the cording.  the exterior maintains the rough hewn texture of the original material, while the interior of the cuff has been polished smooth for comfort &amp; ease of wear every day.</p>
+<p>the box braid cuff is slighly oval with a 1" opening and a 2" diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308181769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/308185805</id>
+    <published>2014-05-09T08:52:37-04:00</published>
+    <updated>2014-05-09T08:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/rhiannon-ring"/>
+    <title>Rhiannon Ring</title>
+    <s:type>rings</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/rhiannon_ring_2.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>rings<br>
+        <strong>Price: </strong>
+            115.00 - 135.00
+            <a href="https://temerityjewelry.com/products/rhiannon-ring">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>woven by hand and cast in brass or sterling silver, the rhiannon ring elegantly wraps around your finger with a bezel set stone as its focal point and a gently pointed tail at the other end.  </p>
+<p>available in sodalite (pictured), turquoise, aventurine, or carnelian.  please email us at orders@temerityjewelry.com for custom stone or sizing information.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7.5 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 8 / Sodalite (pictured)</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 8 / Sodalite (pictured)</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5.5 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5.5 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6.5 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6.5 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7.5 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7.5 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 8 / Turquoise</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 8 / Turquoise</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 8 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 8 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5.5 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5.5 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6.5 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6.5 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7.5 / Green Aventurine</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7.5 / Green Aventurine</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 8 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 8 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7.5 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7.5 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 7 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 7 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6.5 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6.5 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 6 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 6 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5.5 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5.5 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Sterling Silver / 5 / Carnelian</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/308185805</id>
+      <title>Brass / 5 / Carnelian</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://temerityjewelry.com/products/307387769</id>
+    <published>2014-05-09T08:24:09-04:00</published>
+    <updated>2014-05-09T08:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://temerityjewelry.com/products/iona-bangle"/>
+    <title>Iona Bangle</title>
+    <s:type>bracelet</s:type>
+    <s:vendor>Temerity Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0212/2932/products/iona_bangle_1_f9913f3c-bb96-40f5-b10c-5a6ef7ecf021.JPG?v=1571438504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Temerity Jewelry<br>
+        <strong>Type: </strong>bracelet<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>inspired by the ephemeral nature of textiles &amp; weaving, </span>the iona bangle is cast from a hand woven and knotted fishtail braid.  a high polish finish draws out the texture and variations of the original material.  it's the perfect addition to an armful of bangles for summertime and a modern update to the traditional friendship bracelet.</p>
+<p>measures 8" around with a 2.5" diameter.  </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://temerityjewelry.com/products/307387769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
